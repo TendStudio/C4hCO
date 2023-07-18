@@ -16509,3 +16509,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.18-22.38.20:920][193]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MasterAssets/ENV/Desertscape/Cylinder_026_Cylinder_029.Cylinder_026_Cylinder_029
 [2023.07.18-22.38.45:046][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
 [2023.07.18-22.38.45:050][266]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FarmScape' took 0.040
+[2023.07.18-22.40.43:549][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
