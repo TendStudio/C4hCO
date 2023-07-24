@@ -1793,3 +1793,48 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.24-22.42.03:803][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 310 ms (total: 678 ms)
 [2023.07.24-22.42.03:808][916]AssetCheck: New page: Asset Save: SCENE1
 [2023.07.24-22.42.03:808][916]LogContentValidation: Display: Validating /Script/Engine.World /Game/SCENE1.SCENE1
+[2023.07.24-22.43.13:331][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_Dirtbike_Mesh_039.Bike_v2_Dirtbike_Mesh_039
+[2023.07.24-22.43.13:331][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_Dirtbike_Mesh_039.Bike_v2_Dirtbike_Mesh_039
+[2023.07.24-22.43.13:331][872]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_Dirtbike_Mesh_039.Bike_v2_Dirtbike_Mesh_039 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_21
+[2023.07.24-22.43.13:332][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_steering_Mesh_042.Bike_v2_steering_Mesh_042
+[2023.07.24-22.43.13:332][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_steering_Mesh_042.Bike_v2_steering_Mesh_042
+[2023.07.24-22.43.13:332][872]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_steering_Mesh_042.Bike_v2_steering_Mesh_042 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_22
+[2023.07.24-22.43.13:332][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_tire_a_Mesh_040.Bike_v2_tire_a_Mesh_040
+[2023.07.24-22.43.13:332][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_tire_a_Mesh_040.Bike_v2_tire_a_Mesh_040
+[2023.07.24-22.43.13:332][872]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_tire_a_Mesh_040.Bike_v2_tire_a_Mesh_040 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_23
+[2023.07.24-22.43.13:333][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_tire_b_Mesh_041.Bike_v2_tire_b_Mesh_041
+[2023.07.24-22.43.13:333][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_tire_b_Mesh_041.Bike_v2_tire_b_Mesh_041
+[2023.07.24-22.43.13:333][872]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_tire_b_Mesh_041.Bike_v2_tire_b_Mesh_041 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_24
+[2023.07.24-22.43.19:051][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_Dirtbike_Mesh_039.Bike_v2_Dirtbike_Mesh_039
+[2023.07.24-22.43.19:051][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_Dirtbike_Mesh_039.Bike_v2_Dirtbike_Mesh_039
+[2023.07.24-22.43.19:053][467]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_Dirtbike_Mesh_039.Bike_v2_Dirtbike_Mesh_039 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_25
+[2023.07.24-22.43.19:074][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_steering_Mesh_042.Bike_v2_steering_Mesh_042
+[2023.07.24-22.43.19:074][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_steering_Mesh_042.Bike_v2_steering_Mesh_042
+[2023.07.24-22.43.19:075][467]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_steering_Mesh_042.Bike_v2_steering_Mesh_042 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_26
+[2023.07.24-22.43.19:092][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_tire_a_Mesh_040.Bike_v2_tire_a_Mesh_040
+[2023.07.24-22.43.19:092][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_tire_a_Mesh_040.Bike_v2_tire_a_Mesh_040
+[2023.07.24-22.43.19:092][467]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_tire_a_Mesh_040.Bike_v2_tire_a_Mesh_040 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_27
+[2023.07.24-22.43.19:109][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_tire_b_Mesh_041.Bike_v2_tire_b_Mesh_041
+[2023.07.24-22.43.19:109][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_tire_b_Mesh_041.Bike_v2_tire_b_Mesh_041
+[2023.07.24-22.43.19:109][467]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/DirtBike/Bike_v2_tire_b_Mesh_041.Bike_v2_tire_b_Mesh_041 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_28
+[2023.07.24-22.44.05:330][495]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.24-22.44.16:907][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.24-22.44.16:959][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCENE1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.24-22.44.16:967][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.07.24-22.44.17:171][849]LogSavePackage: Moving output files for package: /Game/SCENE1
+[2023.07.24-22.44.17:171][849]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/SCENE176172D384C1148F7D55C66AD8ACAE96F.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap'
+[2023.07.24-22.44.17:735][849]LogFileHelpers: Saving map 'SCENE1' took 0.777
+[2023.07.24-22.44.17:743][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 836 ms (total: 1.51 sec)
+[2023.07.24-22.44.17:750][849]AssetCheck: New page: Asset Save: SCENE1
+[2023.07.24-22.44.17:750][849]LogContentValidation: Display: Validating /Script/Engine.World /Game/SCENE1.SCENE1
+[2023.07.24-22.44.20:144][118]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.07.24-22.44.20:144][118]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.07.24-22.44.24:153][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.24-22.44.24:210][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCENE1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.24-22.44.24:220][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.07.24-22.44.24:425][548]LogSavePackage: Moving output files for package: /Game/SCENE1
+[2023.07.24-22.44.24:426][548]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/SCENE1B5C854F840E07A5FA19D7B9FB633B94A.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap'
+[2023.07.24-22.44.24:476][548]LogFileHelpers: Saving map 'SCENE1' took 0.266
+[2023.07.24-22.44.24:485][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 331 ms (total: 1.84 sec)
+[2023.07.24-22.44.24:489][548]AssetCheck: New page: Asset Save: SCENE1
+[2023.07.24-22.44.24:489][548]LogContentValidation: Display: Validating /Script/Engine.World /Game/SCENE1.SCENE1
