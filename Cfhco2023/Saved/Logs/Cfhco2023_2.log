@@ -2617,3 +2617,51 @@ Reference List:
 [2023.07.26-18.56.41:701][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 16.9 sec)
 [2023.07.26-18.56.41:706][912]AssetCheck: New page: Asset Save: LSEP1EDIT15
 [2023.07.26-18.56.41:708][912]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.57.14:124][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.26-18.57.14:129][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCENE1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Autosaves/Game/SCENE1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.07.26-18.57.14:337][225]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SCENE1_Auto1
+[2023.07.26-18.57.14:338][225]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/SCENE1_Auto129EBDE854F5AAE9843A78593B32B5501.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Autosaves/Game/SCENE1_Auto1.umap'
+[2023.07.26-18.57.14:351][225]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SCENE1' took 0.249
+[2023.07.26-18.57.14:351][225]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.249
+[2023.07.26-18.57.25:679][340]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.57.29:928][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.57.29:996][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/Shots/EP1_SC1_SH1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH1.uasset" SILENT=true
+[2023.07.26-18.57.30:000][690]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH1
+[2023.07.26-18.57.30:000][690]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/EP1_SC1_SH13EEE41BD461BFF56684CE4AFFD0B1B15.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH1.uasset'
+[2023.07.26-18.57.30:008][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 17.0 sec)
+[2023.07.26-18.57.30:016][690]AssetCheck: New page: Asset Save: EP1_SC1_SH1
+[2023.07.26-18.57.30:017][690]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH1.EP1_SC1_SH1
+[2023.07.26-18.57.46:263][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.57.46:328][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset" SILENT=true
+[2023.07.26-18.57.46:332][974]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2
+[2023.07.26-18.57.46:332][974]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/EP1_SC1_SH225972FD7458A8EBEE70FBBB2F8780682.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset'
+[2023.07.26-18.57.46:340][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 17.1 sec)
+[2023.07.26-18.57.46:349][974]AssetCheck: New page: Asset Save: EP1_SC1_SH2
+[2023.07.26-18.57.46:350][974]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2.EP1_SC1_SH2
+[2023.07.26-18.57.53:454][582]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.58.10:597][  5]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.58.11:750][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.58.11:816][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.58.11:820][121]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.58.11:820][121]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT157EB7857445F67D48721E9988B1949D9E.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.58.11:828][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 17.1 sec)
+[2023.07.26-18.58.11:833][121]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.58.11:834][121]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.58.42:289][533]Cmd: TRANSACTION UNDO
+[2023.07.26-18.58.42:289][533]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.58.43:114][554]Cmd: TRANSACTION UNDO
+[2023.07.26-18.58.43:114][554]LogEditorTransaction: Undo Set Location
+[2023.07.26-18.58.43:569][582]Cmd: TRANSACTION UNDO
+[2023.07.26-18.58.43:569][582]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.59.23:227][560]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.59.30:394][101]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.59.31:106][162]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.59.33:688][372]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.59.35:313][428]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.59.42:262][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.59.42:325][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.59.42:330][960]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.59.42:330][960]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT15DFECE8E3421977FE9D4AF997EDC5ECF6.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.59.42:338][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 17.2 sec)
+[2023.07.26-18.59.42:343][960]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.59.42:344][960]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
