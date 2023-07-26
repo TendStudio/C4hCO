@@ -1413,3 +1413,209 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.26-17.51.10:463][925]AssetCheck: New page: Asset Save: SCENE1
 [2023.07.26-17.51.10:463][925]LogContentValidation: Display: Validating /Script/Engine.World /Game/SCENE1.SCENE1
 [2023.07.26-17.51.11:118][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.07.26-17.52.29:963][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.07.26-17.52.30:991][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-17.52.31:049][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCENE1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.26-17.52.31:060][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.07.26-17.52.31:261][961]LogSavePackage: Moving output files for package: /Game/SCENE1
+[2023.07.26-17.52.31:262][961]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/SCENE1298D149945EB4777F1D2CA9A4C2C7221.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap'
+[2023.07.26-17.52.31:300][961]LogFileHelpers: Saving map 'SCENE1' took 0.253
+[2023.07.26-17.52.31:309][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 318 ms (total: 5.50 sec)
+[2023.07.26-17.52.31:317][961]AssetCheck: New page: Asset Save: SCENE1
+[2023.07.26-17.52.31:317][961]LogContentValidation: Display: Validating /Script/Engine.World /Game/SCENE1.SCENE1
+[2023.07.26-17.52.32:446][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-17.52.32:516][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/Shots/EP1_SC1_SH1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH1.uasset" SILENT=true
+[2023.07.26-17.52.32:520][ 59]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH1
+[2023.07.26-17.52.32:521][ 59]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/EP1_SC1_SH1738D1FFD42772443DB544ABA6966F301.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH1.uasset'
+[2023.07.26-17.52.32:528][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 5.58 sec)
+[2023.07.26-17.52.32:533][ 59]AssetCheck: New page: Asset Save: EP1_SC1_SH1
+[2023.07.26-17.52.32:534][ 59]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH1.EP1_SC1_SH1
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: ================================================
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: Total job queries 270, among them cache hits 21 (7.78%)
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: Tracking 249 distinct input hashes that result in 144 distinct outputs (57.83%)
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: RAM used: 2.13 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.06%
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: Shaders Compiled: 43
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: Jobs assigned 43, completed 43 (100.00%)
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: Average time worker was idle: 0.10 s
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: Job execution time: average 2.66 s, max 3.96 s
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: Job life time (pending + execution): average 2.74 s, max 4.04
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.81 s
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: Jobs were issued in 19 batches (only local compilation was used), average 2.26 jobs/batch
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: Average processing rate: 8.94 jobs/sec
+[2023.07.26-17.55.07:929][600]LogShaderCompilers: Display: Total thread time: 38.60 s
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display: Total thread preprocess time: 1.51 s
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display: Percentage time preprocessing: 3.92%
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display: Effective parallelization: 8.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 18
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.93 sec, max 1.96 sec, min 1.89 sec)
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 1.84 sec, max 1.85 sec, min 1.83 sec)
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.28 sec, max 1.44 sec, min 1.11 sec)
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.93 sec, max 0.95 sec, min 0.91 sec)
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.92 sec, max 0.94 sec, min 0.89 sec)
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.03% of total time (compiled    3 times, average 1.93 sec, max 1.96 sec, min 1.89 sec)
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 9.52% of total time (compiled    2 times, average 1.84 sec, max 1.85 sec, min 1.83 sec)
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 6.61% of total time (compiled    2 times, average 1.28 sec, max 1.44 sec, min 1.11 sec)
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 5.14% of total time (compiled    3 times, average 0.66 sec, max 0.73 sec, min 0.63 sec)
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.80% of total time (compiled    2 times, average 0.93 sec, max 0.95 sec, min 0.91 sec)
+[2023.07.26-17.55.07:930][600]LogShaderCompilers: Display: ================================================
+[2023.07.26-17.55.08:237][613]LogD3D12RHI: Creating RTPSO with 38 shaders (0 cached, 1 new) took 119.24 ms. Compile time 117.11 ms, link time 2.10 ms.
+[2023.07.26-17.55.16:990][411]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-17.55.17:049][411]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.26-17.55.17:551][411]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.26-17.55.17:554][411]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.26-17.55.18:054][411]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.26-17.55.25:396][ 98]Cmd: TRANSACTION UNDO
+[2023.07.26-17.55.25:396][ 98]LogEditorTransaction: Undo Move Keys or Sections
+[2023.07.26-17.55.31:946][592]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT06.LSEP1EDIT06
+[2023.07.26-17.55.32:061][592]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.26-17.55.32:561][592]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.26-17.55.39:987][358]Cmd: TRANSACTION UNDO
+[2023.07.26-17.55.39:987][358]LogEditorTransaction: Undo Animatable Property Changed
+[2023.07.26-17.56.19:790][466]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-17.56.21:099][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-17.56.21:174][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT06" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT06.uasset" SILENT=true
+[2023.07.26-17.56.21:175][592]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT06
+[2023.07.26-17.56.21:176][592]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT061370C2CE4788052C43ED319385BD6A03.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT06.uasset'
+[2023.07.26-17.56.21:182][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 5.66 sec)
+[2023.07.26-17.56.21:192][592]AssetCheck: New page: Asset Save: LSEP1EDIT06
+[2023.07.26-17.56.21:192][592]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT06.LSEP1EDIT06
+[2023.07.26-17.56.59:679][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.07.26-17.57.19:217][214]LogSlate: Window 'Message' being destroyed
+[2023.07.26-17.57.19:224][214]Message dialog closed, result: Cancel, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+SCENE1
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2023.07.26-17.57.30:066][323]LogContentBrowser: Attempting asset rename: SCENE1 -> EP1
+[2023.07.26-17.57.36:696][323]LogSlate: Window 'Message' being destroyed
+[2023.07.26-17.57.36:703][323]Message dialog closed, result: Cancel, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+SCENE1
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2023.07.26-17.57.39:293][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.07.26-17.57.39:295][507]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SCENE1.SCENE1
+[2023.07.26-17.57.39:295][507]Cmd: MAP LOAD FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.07.26-17.57.39:295][507]LightingResults: New page: Lighting Build
+[2023.07.26-17.57.39:295][507]LoadErrors: New page: Loading map: SCENE1.umap
+[2023.07.26-17.57.39:321][507]LogWorld: UWorld::CleanupWorld for SCENE1, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-17.57.39:321][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-17.57.39:321][507]MapCheck: New page: Map Check
+[2023.07.26-17.57.39:321][507]LightingResults: New page: Lighting Build
+[2023.07.26-17.57.39:335][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.26-17.57.39:343][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.07.26-17.57.39:410][507]LogAudio: Display: Audio Device (ID: 1) registered with world 'SCENE1'.
+[2023.07.26-17.57.39:411][507]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-17.57.39:411][507]LogAIModule: Creating AISystem for world SCENE1
+[2023.07.26-17.57.39:604][507]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.26-17.57.39:656][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.07.26-17.57.39:756][507]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.26-17.57.40:257][507]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.26-17.57.40:283][507]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.26-17.57.40:785][507]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.26-17.57.40:785][507]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.26-17.57.40:785][507]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2023.07.26-17.57.40:785][507]LogFileHelpers: Loading map 'SCENE1' took 1.490
+[2023.07.26-17.57.40:815][507]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.26-17.57.41:301][507]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.07.26-17.57.41:994][507]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049936s
+[2023.07.26-17.57.41:994][507]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.26-17.57.41:997][507]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.050000s (0.055786s overbudget)
+[2023.07.26-17.57.42:107][508]LogViewport: Scene viewport resized to 1537x1297, mode Windowed.
+[2023.07.26-17.57.42:528][512]LogDerivedDataCache: Display: C:/Users/Tlud8/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 5d506b35e02bcb56e3ee42913161e2b65c5b59d8 and existing hash ff06b9d8c34621f094a8805fc9e606e7d025b534 for MaterialShaderMap/81158f19a9f6e3506eb306fa948850723567c8c8 from '/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.M_MS_Surface_Material [PCD3D_SM6, SM6, Num]'
+[2023.07.26-17.58.12:162][646]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-17.58.12:206][646]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.26-17.58.12:707][646]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.26-17.58.12:737][646]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.26-17.58.13:239][646]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.26-17.58.13:268][647]LogViewport: Scene viewport resized to 1537x529, mode Windowed.
+[2023.07.26-17.58.17:521][ 24]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT06.LSEP1EDIT06
+[2023.07.26-17.58.17:689][ 24]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.26-17.58.18:191][ 24]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.26-17.58.18:220][ 24]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.26-17.58.18:721][ 24]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.26-17.58.18:748][ 25]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-17.58.20:727][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-17.58.20:786][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT06" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT06.uasset" SILENT=true
+[2023.07.26-17.58.20:788][172]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT06
+[2023.07.26-17.58.20:788][172]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT06475EE2F14C861D444FF1CDA7911648E2.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT06.uasset'
+[2023.07.26-17.58.20:795][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 5.73 sec)
+[2023.07.26-17.58.20:803][172]AssetCheck: New page: Asset Save: LSEP1EDIT06
+[2023.07.26-17.58.20:804][172]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT06.LSEP1EDIT06
+[2023.07.26-17.58.25:401][667]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-17.58.26:728][780]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-17.58.26:787][780]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.26-17.58.27:288][780]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.26-17.58.27:329][780]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.26-17.58.27:830][780]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.26-17.58.27:860][781]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-17.58.29:855][970]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-17.58.32:585][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-17.58.32:653][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-17.58.32:654][255]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-17.58.32:655][255]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT15A086FE22428D6441B2BAB18B31EB7833.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-17.58.32:661][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 5.81 sec)
+[2023.07.26-17.58.32:670][255]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-17.58.32:670][255]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-17.58.49:618][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-17.58.49:688][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCENE1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.26-17.58.49:700][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.07.26-17.58.49:904][ 52]LogSavePackage: Moving output files for package: /Game/SCENE1
+[2023.07.26-17.58.49:904][ 52]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/SCENE13948F2E844335A1F3217DF9D9FF07E67.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap'
+[2023.07.26-17.58.49:935][ 52]LogFileHelpers: Saving map 'SCENE1' took 0.248
+[2023.07.26-17.58.49:942][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 324 ms (total: 6.13 sec)
+[2023.07.26-17.58.49:949][ 52]AssetCheck: New page: Asset Save: SCENE1
+[2023.07.26-17.58.49:950][ 52]LogContentValidation: Display: Validating /Script/Engine.World /Game/SCENE1.SCENE1
+[2023.07.26-17.58.51:917][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-17.58.51:990][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-17.58.51:992][233]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-17.58.51:992][233]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT15AF4E43DA4750CB99811139A13622674B.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-17.58.51:998][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 6.21 sec)
+[2023.07.26-17.58.52:003][233]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-17.58.52:004][233]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.03.25:920][239]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.03.26:166][250]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.03.41:169][363]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.07.26-18.03.41:200][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.07.26-18.03.42:879][363]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.26-18.03.42:894][363]LogShaderCompilers: Display: ================================================
+[2023.07.26-18.03.42:894][363]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Total job queries 327, among them cache hits 78 (23.85%)
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Tracking 249 distinct input hashes that result in 144 distinct outputs (57.83%)
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: RAM used: 2.13 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.06%
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Shaders Compiled: 43
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Jobs assigned 43, completed 43 (100.00%)
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Average time worker was idle: 0.10 s
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Job execution time: average 2.66 s, max 3.96 s
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Job life time (pending + execution): average 2.74 s, max 4.04
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.81 s
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Jobs were issued in 19 batches (only local compilation was used), average 2.26 jobs/batch
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Average processing rate: 8.94 jobs/sec
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Total thread time: 38.60 s
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Total thread preprocess time: 1.51 s
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Percentage time preprocessing: 3.92%
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Effective parallelization: 8.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 18
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.93 sec, max 1.96 sec, min 1.89 sec)
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 1.84 sec, max 1.85 sec, min 1.83 sec)
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.28 sec, max 1.44 sec, min 1.11 sec)
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.93 sec, max 0.95 sec, min 0.91 sec)
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.92 sec, max 0.94 sec, min 0.89 sec)
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.03% of total time (compiled    3 times, average 1.93 sec, max 1.96 sec, min 1.89 sec)
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 9.52% of total time (compiled    2 times, average 1.84 sec, max 1.85 sec, min 1.83 sec)
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 6.61% of total time (compiled    2 times, average 1.28 sec, max 1.44 sec, min 1.11 sec)
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 5.14% of total time (compiled    3 times, average 0.66 sec, max 0.73 sec, min 0.63 sec)
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.80% of total time (compiled    2 times, average 0.93 sec, max 0.95 sec, min 0.91 sec)
+[2023.07.26-18.03.42:895][363]LogShaderCompilers: Display: ================================================
+[2023.07.26-18.03.42:943][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.26-18.03.42:953][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.07.26-18.03.42:962][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
