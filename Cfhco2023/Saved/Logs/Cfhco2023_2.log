@@ -1619,3 +1619,1001 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2023.07.26-18.03.42:943][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
 [2023.07.26-18.03.42:953][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
 [2023.07.26-18.03.42:962][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.07.26-18.05.24:752][596]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.26-18.05.24:773][596]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.26-18.05.24:783][597]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.07.26-18.05.41:402][388]LogContentBrowser: Attempting asset rename: NewFolder -> van_v2_opened
+[2023.07.26-18.05.41:402][388]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.26-18.05.58:124][903]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Tend Studio Dropbox/2023/C4HCO_23/ASSETS/FromWayne/Van_Mesh_SemiOpen.fbx)
+[2023.07.26-18.05.58:147][903]LogFbx: Loading FBX Scene from D:/Tend Studio Dropbox/2023/C4HCO_23/ASSETS/FromWayne/Van_Mesh_SemiOpen.fbx
+[2023.07.26-18.05.58:273][903]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.26-18.06.01:207][903]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.26-18.06.01:300][903]LogFbx: Display: Triangulating static mesh Van_SemiOpen
+[2023.07.26-18.06.07:167][903]LogStaticMesh: Display: Building static mesh Van_Mesh_SemiOpen...
+[2023.07.26-18.06.09:291][903]LogStaticMesh: Built static mesh [2.12s] /Game/MasterAssets/Props/van_v2_opened/Van_Mesh_SemiOpen.Van_Mesh_SemiOpen
+[2023.07.26-18.06.10:119][903]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.26-18.06.13:473][117]LogSlate: Window 'Message Log' being destroyed
+[2023.07.26-18.06.13:480][117]LogSlate: Window 'Message Log' being destroyed
+[2023.07.26-18.06.31:579][647]LogSlate: Window 'Save Asset As' being destroyed
+[2023.07.26-18.07.21:208][536]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.07.21:470][547]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.07.27:362][ 60]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.08.33:102][145]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.08.37:145][490]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.09.09:495][322]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/van_v2_opened/Van_Mesh_SemiOpen.Van_Mesh_SemiOpen
+[2023.07.26-18.09.09:495][322]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/van_v2_opened/Van_Mesh_SemiOpen.Van_Mesh_SemiOpen
+[2023.07.26-18.09.09:495][322]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/van_v2_opened/Van_Mesh_SemiOpen.Van_Mesh_SemiOpen as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_2
+[2023.07.26-18.09.09:759][342]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/van_v2_opened/Van_Mesh_SemiOpen.Van_Mesh_SemiOpen
+[2023.07.26-18.09.09:759][342]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/van_v2_opened/Van_Mesh_SemiOpen.Van_Mesh_SemiOpen
+[2023.07.26-18.09.09:760][342]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/van_v2_opened/Van_Mesh_SemiOpen.Van_Mesh_SemiOpen as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_4
+[2023.07.26-18.09.10:414][400]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/van_v2_opened/Van_Mesh_SemiOpen.Van_Mesh_SemiOpen
+[2023.07.26-18.09.10:414][400]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/van_v2_opened/Van_Mesh_SemiOpen.Van_Mesh_SemiOpen
+[2023.07.26-18.09.10:415][400]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/van_v2_opened/Van_Mesh_SemiOpen.Van_Mesh_SemiOpen as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_5
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: ================================================
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Total job queries 329, among them cache hits 78 (23.71%)
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Tracking 251 distinct input hashes that result in 146 distinct outputs (58.17%)
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: RAM used: 2.14 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.07%
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Shaders Compiled: 43
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Jobs assigned 43, completed 43 (100.00%)
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Average time worker was idle: 0.10 s
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Job execution time: average 2.66 s, max 3.96 s
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Job life time (pending + execution): average 2.74 s, max 4.04
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.81 s
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Jobs were issued in 19 batches (only local compilation was used), average 2.26 jobs/batch
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Average processing rate: 8.94 jobs/sec
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Total thread time: 38.60 s
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Total thread preprocess time: 1.51 s
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Percentage time preprocessing: 3.92%
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Effective parallelization: 8.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 18
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.93 sec, max 1.96 sec, min 1.89 sec)
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 1.84 sec, max 1.85 sec, min 1.83 sec)
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.28 sec, max 1.44 sec, min 1.11 sec)
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.93 sec, max 0.95 sec, min 0.91 sec)
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.92 sec, max 0.94 sec, min 0.89 sec)
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.03% of total time (compiled    3 times, average 1.93 sec, max 1.96 sec, min 1.89 sec)
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 9.52% of total time (compiled    2 times, average 1.84 sec, max 1.85 sec, min 1.83 sec)
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 6.61% of total time (compiled    2 times, average 1.28 sec, max 1.44 sec, min 1.11 sec)
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 5.14% of total time (compiled    3 times, average 0.66 sec, max 0.73 sec, min 0.63 sec)
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.80% of total time (compiled    2 times, average 0.93 sec, max 0.95 sec, min 0.91 sec)
+[2023.07.26-18.09.24:056][551]LogShaderCompilers: Display: ================================================
+[2023.07.26-18.09.32:160][299]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.09.55:208][461]Cmd: MODE ROTGRID=0
+[2023.07.26-18.10.06:208][478]Cmd: TRANSACTION UNDO
+[2023.07.26-18.10.06:208][478]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.11.32:074][451]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.11.38:315][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.11.38:387][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.11.38:388][ 50]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.11.38:389][ 50]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT1525C112934E72C16382293DA85BFDCBB9.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.11.38:395][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 6.29 sec)
+[2023.07.26-18.11.38:404][ 50]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.11.38:405][ 50]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.11.51:296][202]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_Dirtbike_Mesh_039.DirtBike_v6_Dirtbike_Mesh_039
+[2023.07.26-18.11.51:296][202]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_Dirtbike_Mesh_039.DirtBike_v6_Dirtbike_Mesh_039
+[2023.07.26-18.11.51:296][202]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_Dirtbike_Mesh_039.DirtBike_v6_Dirtbike_Mesh_039 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_7
+[2023.07.26-18.11.51:297][202]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_steering_Mesh_042.DirtBike_v6_steering_Mesh_042
+[2023.07.26-18.11.51:297][202]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_steering_Mesh_042.DirtBike_v6_steering_Mesh_042
+[2023.07.26-18.11.51:297][202]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_steering_Mesh_042.DirtBike_v6_steering_Mesh_042 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_8
+[2023.07.26-18.11.51:298][202]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_a_Mesh_040.DirtBike_v6_tire_a_Mesh_040
+[2023.07.26-18.11.51:298][202]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_a_Mesh_040.DirtBike_v6_tire_a_Mesh_040
+[2023.07.26-18.11.51:298][202]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_a_Mesh_040.DirtBike_v6_tire_a_Mesh_040 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_9
+[2023.07.26-18.11.51:298][202]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_b_Mesh_041.DirtBike_v6_tire_b_Mesh_041
+[2023.07.26-18.11.51:299][202]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_b_Mesh_041.DirtBike_v6_tire_b_Mesh_041
+[2023.07.26-18.11.51:299][202]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_b_Mesh_041.DirtBike_v6_tire_b_Mesh_041 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_10
+[2023.07.26-18.12.00:310][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_Dirtbike_Mesh_039.DirtBike_v6_Dirtbike_Mesh_039
+[2023.07.26-18.12.00:310][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_Dirtbike_Mesh_039.DirtBike_v6_Dirtbike_Mesh_039
+[2023.07.26-18.12.00:310][ 87]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_Dirtbike_Mesh_039.DirtBike_v6_Dirtbike_Mesh_039 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_11
+[2023.07.26-18.12.00:333][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_steering_Mesh_042.DirtBike_v6_steering_Mesh_042
+[2023.07.26-18.12.00:333][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_steering_Mesh_042.DirtBike_v6_steering_Mesh_042
+[2023.07.26-18.12.00:333][ 87]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_steering_Mesh_042.DirtBike_v6_steering_Mesh_042 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_12
+[2023.07.26-18.12.00:349][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_a_Mesh_040.DirtBike_v6_tire_a_Mesh_040
+[2023.07.26-18.12.00:349][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_a_Mesh_040.DirtBike_v6_tire_a_Mesh_040
+[2023.07.26-18.12.00:350][ 87]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_a_Mesh_040.DirtBike_v6_tire_a_Mesh_040 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_13
+[2023.07.26-18.12.00:365][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_b_Mesh_041.DirtBike_v6_tire_b_Mesh_041
+[2023.07.26-18.12.00:365][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_b_Mesh_041.DirtBike_v6_tire_b_Mesh_041
+[2023.07.26-18.12.00:366][ 87]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_b_Mesh_041.DirtBike_v6_tire_b_Mesh_041 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_14
+[2023.07.26-18.12.01:980][220]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.12.26:010][308]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.13.14:121][156]Cmd: TRANSACTION UNDO
+[2023.07.26-18.13.14:121][156]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.13.23:624][822]EditorErrors: New page: Actor attachment
+[2023.07.26-18.13.26:040][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.13.26:098][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.13.26:099][ 33]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.13.26:099][ 33]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT157EC052C64041D6F48134E0B7A23280DB.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.13.26:106][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 6.36 sec)
+[2023.07.26-18.13.26:115][ 33]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.13.26:116][ 33]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.13.39:070][264]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.13.42:133][491]Cmd: TRANSACTION UNDO
+[2023.07.26-18.13.42:133][491]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.13.54:459][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.13.54:519][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCENE1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.26-18.13.54:534][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.07.26-18.13.54:740][469]LogSavePackage: Moving output files for package: /Game/SCENE1
+[2023.07.26-18.13.54:740][469]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/SCENE177BB77AF49742F1327C2D298B6EA09CA.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap'
+[2023.07.26-18.13.54:785][469]LogFileHelpers: Saving map 'SCENE1' took 0.267
+[2023.07.26-18.13.54:799][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 339 ms (total: 6.70 sec)
+[2023.07.26-18.13.54:804][469]AssetCheck: New page: Asset Save: SCENE1
+[2023.07.26-18.13.54:804][469]LogContentValidation: Display: Validating /Script/Engine.World /Game/SCENE1.SCENE1
+[2023.07.26-18.14.19:745][ 36]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -14539.40,19116.68,4925.61
+[2023.07.26-18.14.19:910][ 37]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.14.39:652][890]Cmd: DELETE
+[2023.07.26-18.14.39:652][890]Cmd: ACTOR DELETE
+[2023.07.26-18.14.39:666][890]LogEditorActor: Deleted Actor: CineCameraActor
+[2023.07.26-18.14.39:712][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.07.26-18.14.39:715][890]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2023.07.26-18.14.47:226][578]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -14539.40,19116.68,4925.61
+[2023.07.26-18.14.47:381][579]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.15.00:774][ 53]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.15.28:223][981]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.15.28:246][982]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.15.28:556][993]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.20.34:619][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.07.26-18.20.36:190][ 87]LogSlate: Window 'Save Content' being destroyed
+[2023.07.26-18.20.36:200][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.20.36:261][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCENE1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.26-18.20.36:270][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.07.26-18.20.36:478][ 87]LogSavePackage: Moving output files for package: /Game/SCENE1
+[2023.07.26-18.20.36:478][ 87]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/SCENE1A39115664084F98459FDCA9DE48E0514.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap'
+[2023.07.26-18.20.36:526][ 87]LogFileHelpers: Saving map 'SCENE1' took 0.265
+[2023.07.26-18.20.36:526][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset" SILENT=true
+[2023.07.26-18.20.36:531][ 87]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2
+[2023.07.26-18.20.36:531][ 87]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/EP1_SC1_SH28BE9D0DE4AEA4C37A5C854B70D7C721C.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset'
+[2023.07.26-18.20.36:624][ 87]LogSavePackage: Moving output files for package: /Game/MasterAssets/Props/van_v2_opened/Van_Mesh_SemiOpen
+[2023.07.26-18.20.36:624][ 87]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Van_Mesh_SemiOpen8E1799AE42E419A14CA950AFDBBDC966.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Props/van_v2_opened/Van_Mesh_SemiOpen.uasset'
+[2023.07.26-18.20.36:634][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 433 ms (total: 7.13 sec)
+[2023.07.26-18.20.36:642][ 87]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.26-18.20.36:643][ 87]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MasterAssets/Props/van_v2_opened/Van_Mesh_SemiOpen.Van_Mesh_SemiOpen
+[2023.07.26-18.20.36:643][ 87]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2.EP1_SC1_SH2
+[2023.07.26-18.20.36:643][ 87]LogContentValidation: Display: Validating /Script/Engine.World /Game/SCENE1.SCENE1
+[2023.07.26-18.20.37:754][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.20.37:826][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset" SILENT=true
+[2023.07.26-18.20.37:831][162]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2
+[2023.07.26-18.20.37:831][162]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/EP1_SC1_SH205755460433100A0759D4CAF264D0780.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset'
+[2023.07.26-18.20.37:840][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 7.22 sec)
+[2023.07.26-18.20.37:845][162]AssetCheck: New page: Asset Save: EP1_SC1_SH2
+[2023.07.26-18.20.37:846][162]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2.EP1_SC1_SH2
+[2023.07.26-18.20.38:910][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.20.38:960][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCENE1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.26-18.20.38:971][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.07.26-18.20.39:173][247]LogSavePackage: Moving output files for package: /Game/SCENE1
+[2023.07.26-18.20.39:173][247]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/SCENE19B6B4DB24C51A5A3F59AA19EF5897B5A.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap'
+[2023.07.26-18.20.39:213][247]LogFileHelpers: Saving map 'SCENE1' took 0.254
+[2023.07.26-18.20.39:224][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 313 ms (total: 7.53 sec)
+[2023.07.26-18.20.39:228][247]AssetCheck: New page: Asset Save: SCENE1
+[2023.07.26-18.20.39:229][247]LogContentValidation: Display: Validating /Script/Engine.World /Game/SCENE1.SCENE1
+[2023.07.26-18.21.12:495][907]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Gravel_Ground_wgrsade/MI_Gravel_Ground_wgrsade_4K.MI_Gravel_Ground_wgrsade_4K
+[2023.07.26-18.21.12:497][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-18.21.12:743][907]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.26-18.21.13:244][907]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.26-18.21.13:285][907]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.26-18.21.13:786][907]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: ================================================
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Total job queries 349, among them cache hits 84 (24.07%)
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Tracking 265 distinct input hashes that result in 156 distinct outputs (58.87%)
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: RAM used: 2.23 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.07%
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Shaders Compiled: 43
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Jobs assigned 43, completed 43 (100.00%)
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Average time worker was idle: 0.10 s
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Job execution time: average 2.66 s, max 3.96 s
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Job life time (pending + execution): average 2.74 s, max 4.04
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.81 s
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Jobs were issued in 19 batches (only local compilation was used), average 2.26 jobs/batch
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Average processing rate: 8.94 jobs/sec
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Total thread time: 38.60 s
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Total thread preprocess time: 1.51 s
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Percentage time preprocessing: 3.92%
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Effective parallelization: 8.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 18
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.93 sec, max 1.96 sec, min 1.89 sec)
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 1.84 sec, max 1.85 sec, min 1.83 sec)
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.28 sec, max 1.44 sec, min 1.11 sec)
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.93 sec, max 0.95 sec, min 0.91 sec)
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.92 sec, max 0.94 sec, min 0.89 sec)
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.03% of total time (compiled    3 times, average 1.93 sec, max 1.96 sec, min 1.89 sec)
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 9.52% of total time (compiled    2 times, average 1.84 sec, max 1.85 sec, min 1.83 sec)
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 6.61% of total time (compiled    2 times, average 1.28 sec, max 1.44 sec, min 1.11 sec)
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 5.14% of total time (compiled    3 times, average 0.66 sec, max 0.73 sec, min 0.63 sec)
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.80% of total time (compiled    2 times, average 0.93 sec, max 0.95 sec, min 0.91 sec)
+[2023.07.26-18.21.13:817][907]LogShaderCompilers: Display: ================================================
+[2023.07.26-18.21.13:830][907]LogViewport: Scene viewport resized to 1162x975, mode Windowed.
+[2023.07.26-18.21.14:037][911]LogD3D12RHI: Creating RTPSO with 40 shaders (0 cached, 2 new) took 112.09 ms. Compile time 109.97 ms, link time 2.09 ms.
+[2023.07.26-18.21.23:411][350]LogSlate: Window 'MI_Gravel_Ground_wgrsade_4K' being destroyed
+[2023.07.26-18.21.23:420][350]LogSlate: Window 'MI_Gravel_Ground_wgrsade_4K' being destroyed
+[2023.07.26-18.21.23:430][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.07.26-18.21.23:638][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.07.26-18.21.23:666][350]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-18.21.23:666][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-18.21.27:302][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.21.27:365][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.21.27:367][653]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.21.27:367][653]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT15EEFA03AC4B9FA6EB265505A8EBA4064C.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.21.27:374][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 7.60 sec)
+[2023.07.26-18.21.27:379][653]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.21.27:380][653]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.21.52:514][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.21.52:585][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.21.52:587][102]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.21.52:587][102]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT15C4C199D94E24AC4545265198E10978A5.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.21.52:595][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 7.68 sec)
+[2023.07.26-18.21.52:599][102]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.21.52:600][102]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.24.07:478][736]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree3b_Cube_063.EM_Tree3b_Cube_063
+[2023.07.26-18.24.07:479][736]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree3b_Cube_063.EM_Tree3b_Cube_063
+[2023.07.26-18.24.07:479][736]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree3b_Cube_063.EM_Tree3b_Cube_063 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_19
+[2023.07.26-18.24.07:722][755]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree3b_Cube_063.EM_Tree3b_Cube_063
+[2023.07.26-18.24.07:722][755]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree3b_Cube_063.EM_Tree3b_Cube_063
+[2023.07.26-18.24.07:722][755]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree3b_Cube_063.EM_Tree3b_Cube_063 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_20
+[2023.07.26-18.24.07:965][773]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree3b_Cube_063.EM_Tree3b_Cube_063
+[2023.07.26-18.24.07:965][773]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree3b_Cube_063.EM_Tree3b_Cube_063
+[2023.07.26-18.24.07:965][773]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree3b_Cube_063.EM_Tree3b_Cube_063 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_21
+[2023.07.26-18.24.08:621][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree3b_Cube_063.EM_Tree3b_Cube_063
+[2023.07.26-18.24.08:621][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree3b_Cube_063.EM_Tree3b_Cube_063
+[2023.07.26-18.24.08:622][839]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree3b_Cube_063.EM_Tree3b_Cube_063 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_22
+[2023.07.26-18.24.23:263][918]Cmd: DELETE
+[2023.07.26-18.24.23:263][918]Cmd: ACTOR DELETE
+[2023.07.26-18.24.23:274][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.26-18.24.23:285][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.07.26-18.24.23:290][918]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2023.07.26-18.24.24:707][ 28]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree9a_EA01_Env_Rock_Sand_01e_055.EM_Tree9a_EA01_Env_Rock_Sand_01e_055
+[2023.07.26-18.24.24:707][ 28]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree9a_EA01_Env_Rock_Sand_01e_055.EM_Tree9a_EA01_Env_Rock_Sand_01e_055
+[2023.07.26-18.24.24:707][ 28]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree9a_EA01_Env_Rock_Sand_01e_055.EM_Tree9a_EA01_Env_Rock_Sand_01e_055 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_23
+[2023.07.26-18.24.24:969][ 47]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree9a_EA01_Env_Rock_Sand_01e_055.EM_Tree9a_EA01_Env_Rock_Sand_01e_055
+[2023.07.26-18.24.24:969][ 47]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree9a_EA01_Env_Rock_Sand_01e_055.EM_Tree9a_EA01_Env_Rock_Sand_01e_055
+[2023.07.26-18.24.24:969][ 47]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree9a_EA01_Env_Rock_Sand_01e_055.EM_Tree9a_EA01_Env_Rock_Sand_01e_055 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_24
+[2023.07.26-18.24.25:298][ 77]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree9a_EA01_Env_Rock_Sand_01e_055.EM_Tree9a_EA01_Env_Rock_Sand_01e_055
+[2023.07.26-18.24.25:298][ 77]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree9a_EA01_Env_Rock_Sand_01e_055.EM_Tree9a_EA01_Env_Rock_Sand_01e_055
+[2023.07.26-18.24.25:299][ 77]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/ENV/Desertscape/EM_Tree9a_EA01_Env_Rock_Sand_01e_055.EM_Tree9a_EA01_Env_Rock_Sand_01e_055 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_25
+[2023.07.26-18.24.25:995][127]Cmd: TRANSACTION UNDO
+[2023.07.26-18.24.25:995][127]LogEditorTransaction: Undo Create Actors
+[2023.07.26-18.24.39:731][189]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/ImperfectRock_001_Cube_061.ImperfectRock_001_Cube_061
+[2023.07.26-18.24.39:731][189]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/ImperfectRock_001_Cube_061.ImperfectRock_001_Cube_061
+[2023.07.26-18.24.39:732][189]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/ENV/Desertscape/ImperfectRock_001_Cube_061.ImperfectRock_001_Cube_061 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_26
+[2023.07.26-18.24.40:213][215]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/ImperfectRock_001_Cube_061.ImperfectRock_001_Cube_061
+[2023.07.26-18.24.40:213][215]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/ImperfectRock_001_Cube_061.ImperfectRock_001_Cube_061
+[2023.07.26-18.24.40:213][215]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/ENV/Desertscape/ImperfectRock_001_Cube_061.ImperfectRock_001_Cube_061 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_27
+[2023.07.26-18.24.45:809][666]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/ImperfectRock_001_Cube_061.ImperfectRock_001_Cube_061
+[2023.07.26-18.24.45:809][666]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/ImperfectRock_001_Cube_061.ImperfectRock_001_Cube_061
+[2023.07.26-18.24.45:809][666]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/ENV/Desertscape/ImperfectRock_001_Cube_061.ImperfectRock_001_Cube_061 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_28
+[2023.07.26-18.24.48:630][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/ImperfectRock_001_Cube_061.ImperfectRock_001_Cube_061
+[2023.07.26-18.24.48:630][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/ENV/Desertscape/ImperfectRock_001_Cube_061.ImperfectRock_001_Cube_061
+[2023.07.26-18.24.48:631][918]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/ENV/Desertscape/ImperfectRock_001_Cube_061.ImperfectRock_001_Cube_061 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_29
+[2023.07.26-18.24.59:589][695]Cmd: TRANSACTION UNDO
+[2023.07.26-18.24.59:589][695]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.25.00:059][703]Cmd: TRANSACTION UNDO
+[2023.07.26-18.25.00:059][703]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.25.00:512][728]Cmd: TRANSACTION UNDO
+[2023.07.26-18.25.00:512][728]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.25.01:043][760]Cmd: TRANSACTION UNDO
+[2023.07.26-18.25.01:044][760]LogEditorTransaction: Undo Create Actors
+[2023.07.26-18.26.37:633][654]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.26-18.26.37:658][654]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.26-18.26.37:673][655]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.07.26-18.26.39:489][813]LogContentBrowser: Attempting asset rename: NewFolder -> HDRI
+[2023.07.26-18.26.39:490][813]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.26-18.26.44:558][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.26.44:617][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.26.44:619][212]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.26.44:619][212]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT156EF50DE541DDF8D227012092663291F0.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.26.44:626][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 7.75 sec)
+[2023.07.26-18.26.44:632][212]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.26.44:632][212]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.26.55:457][647]LogInterchangeEngine: [Pending] Importing
+[2023.07.26-18.26.55:485][648]LogInterchangeEngine: [Pending] Importing
+[2023.07.26-18.26.55:635][651]LogInterchangeEngine: [Success] Import Done
+[2023.07.26-18.26.55:644][651]LogTexture: Display: Building textures: /Game/MasterAssets/HDRI/goegap_4k.goegap_4k (RGBA16F, 4096x2048 x1x1x1) (Required Memory Estimate: 288.062485 MB), EncodeSpeed: Fast
+[2023.07.26-18.26.55:697][652]LogInterchangeEngine: [Success] Import Done
+[2023.07.26-18.26.57:884][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.07.26-18.26.59:323][783]LogSlate: Window 'Save Content' being destroyed
+[2023.07.26-18.26.59:334][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.26.59:386][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCENE1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.26-18.26.59:397][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.07.26-18.26.59:616][783]LogSavePackage: Moving output files for package: /Game/SCENE1
+[2023.07.26-18.26.59:617][783]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/SCENE16EAEF10741B4FFF051F0F0807C91225E.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap'
+[2023.07.26-18.26.59:713][783]LogFileHelpers: Saving map 'SCENE1' took 0.328
+[2023.07.26-18.27.00:196][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterAssets/HDRI/goegap_4k" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/HDRI/goegap_4k.uasset" SILENT=true
+[2023.07.26-18.27.00:259][783]LogSavePackage: Moving output files for package: /Game/MasterAssets/HDRI/goegap_4k
+[2023.07.26-18.27.00:259][783]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/goegap_4k0B8D7A2E4B132C2B736468A7000B00E5.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/HDRI/goegap_4k.uasset'
+[2023.07.26-18.27.00:305][783]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Gravel_Ground_wgrsade/MI_Gravel_Ground_wgrsade_4K
+[2023.07.26-18.27.00:305][783]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/MI_Gravel_Ground_wgrsade_4K733E1C034ABD76A5FB07A2BC54EFB075.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/Megascans/Surfaces/Gravel_Ground_wgrsade/MI_Gravel_Ground_wgrsade_4K.uasset'
+[2023.07.26-18.27.00:317][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 983 ms (total: 8.74 sec)
+[2023.07.26-18.27.00:324][783]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.26-18.27.00:325][783]LogContentValidation: Display: Validating /Script/Engine.TextureCube /Game/MasterAssets/HDRI/goegap_4k.goegap_4k
+[2023.07.26-18.27.00:325][783]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Gravel_Ground_wgrsade/MI_Gravel_Ground_wgrsade_4K.MI_Gravel_Ground_wgrsade_4K
+[2023.07.26-18.27.00:325][783]LogContentValidation: Display: Validating /Script/Engine.World /Game/SCENE1.SCENE1
+[2023.07.26-18.27.39:126][747]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.27.50:240][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.27.50:296][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.27.50:298][509]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.27.50:298][509]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT15D2A5796845D90B39D987B08F15A4A8B9.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.27.50:308][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 8.80 sec)
+[2023.07.26-18.27.50:313][509]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.27.50:314][509]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.28.52:587][832]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.07.26-18.28.52:587][832]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.07.26-18.29.46:362][ 55]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Tend Studio Dropbox\2023\C4HCO_23\ASSETS\actorcore_animations\Motion\idle_251087.fbx)
+[2023.07.26-18.29.46:377][ 55]LogFbx: Loading FBX Scene from D:\Tend Studio Dropbox\2023\C4HCO_23\ASSETS\actorcore_animations\Motion\idle_251087.fbx
+[2023.07.26-18.29.46:516][ 55]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.26-18.29.56:414][ 55]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(0) root
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(1) pelvis
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(2) cc_base_pelvis
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(3) spine_01
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(4) spine_02
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(5) spine_03
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(6) neck_01
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(7) cc_base_necktwist02
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(8) head
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(9) cc_base_facialbone
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(10) cc_base_jawroot
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(11) cc_base_tongue01
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(12) cc_base_tongue02
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(13) cc_base_tongue03
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(14) cc_base_teeth02
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(15) cc_base_r_eye
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(16) cc_base_l_eye
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(17) cc_base_upperjaw
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(18) cc_base_teeth01
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(19) clavicle_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(20) upperarm_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(21) lowerarm_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(22) cc_base_l_forearmtwist01
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(23) cc_base_l_elbowsharebone
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(24) hand_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(25) middle_01_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(26) middle_02_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(27) middle_03_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(28) index_01_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(29) index_02_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(30) index_03_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(31) ring_01_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(32) ring_02_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(33) ring_03_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(34) pinky_01_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(35) pinky_02_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(36) pinky_03_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(37) thumb_01_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(38) thumb_02_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(39) thumb_03_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(40) lowerarm_twist_01_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(41) upperarm_twist_01_l
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(42) cc_base_l_upperarmtwist02
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(43) clavicle_r
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(44) upperarm_r
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(45) upperarm_twist_01_r
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(46) cc_base_r_upperarmtwist02
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(47) lowerarm_r
+[2023.07.26-18.29.56:445][ 55]LogFbx: SortedLinks :(48) cc_base_r_forearmtwist01
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(49) cc_base_r_elbowsharebone
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(50) hand_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(51) middle_01_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(52) middle_02_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(53) middle_03_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(54) ring_01_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(55) ring_02_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(56) ring_03_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(57) thumb_01_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(58) thumb_02_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(59) thumb_03_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(60) index_01_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(61) index_02_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(62) index_03_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(63) pinky_01_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(64) pinky_02_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(65) pinky_03_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(66) lowerarm_twist_01_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(67) cc_base_r_ribstwist
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(68) cc_base_r_breast
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(69) cc_base_l_ribstwist
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(70) cc_base_l_breast
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(71) thigh_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(72) calf_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(73) foot_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(74) cc_base_l_toebasesharebone
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(75) ball_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(76) cc_base_l_pinkytoe1
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(77) cc_base_l_ringtoe1
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(78) cc_base_l_midtoe1
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(79) cc_base_l_indextoe1
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(80) cc_base_l_bigtoe1
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(81) calf_twist_01_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(82) cc_base_l_kneesharebone
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(83) cc_base_l_calftwist02
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(84) thigh_twist_01_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(85) cc_base_l_thightwist02
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(86) thigh_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(87) thigh_twist_01_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(88) calf_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(89) foot_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(90) ball_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(91) cc_base_r_pinkytoe1
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(92) cc_base_r_bigtoe1
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(93) cc_base_r_indextoe1
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(94) cc_base_r_midtoe1
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(95) cc_base_r_ringtoe1
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(96) cc_base_r_toebasesharebone
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(97) cc_base_r_kneesharebone
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(98) calf_twist_01_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(99) cc_base_r_calftwist02
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(100) cc_base_r_thightwist02
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(101) ik_foot_root
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(102) ik_foot_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(103) ik_foot_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(104) ik_hand_root
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(105) ik_hand_gun
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(106) ik_hand_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(107) ik_hand_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(0) root
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(1) pelvis
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(2) cc_base_pelvis
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(3) spine_01
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(4) spine_02
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(5) spine_03
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(6) neck_01
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(7) cc_base_necktwist02
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(8) head
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(9) cc_base_facialbone
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(10) cc_base_jawroot
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(11) cc_base_tongue01
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(12) cc_base_tongue02
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(13) cc_base_tongue03
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(14) cc_base_teeth02
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(15) cc_base_r_eye
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(16) cc_base_l_eye
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(17) cc_base_upperjaw
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(18) cc_base_teeth01
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(19) clavicle_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(20) upperarm_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(21) lowerarm_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(22) cc_base_l_forearmtwist01
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(23) cc_base_l_elbowsharebone
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(24) hand_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(25) middle_01_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(26) middle_02_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(27) middle_03_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(28) index_01_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(29) index_02_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(30) index_03_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(31) ring_01_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(32) ring_02_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(33) ring_03_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(34) pinky_01_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(35) pinky_02_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(36) pinky_03_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(37) thumb_01_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(38) thumb_02_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(39) thumb_03_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(40) lowerarm_twist_01_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(41) upperarm_twist_01_l
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(42) cc_base_l_upperarmtwist02
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(43) clavicle_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(44) upperarm_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(45) upperarm_twist_01_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(46) cc_base_r_upperarmtwist02
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(47) lowerarm_r
+[2023.07.26-18.29.56:446][ 55]LogFbx: SortedLinks :(48) cc_base_r_forearmtwist01
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(49) cc_base_r_elbowsharebone
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(50) hand_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(51) middle_01_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(52) middle_02_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(53) middle_03_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(54) ring_01_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(55) ring_02_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(56) ring_03_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(57) thumb_01_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(58) thumb_02_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(59) thumb_03_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(60) index_01_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(61) index_02_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(62) index_03_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(63) pinky_01_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(64) pinky_02_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(65) pinky_03_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(66) lowerarm_twist_01_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(67) cc_base_r_ribstwist
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(68) cc_base_r_breast
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(69) cc_base_l_ribstwist
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(70) cc_base_l_breast
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(71) thigh_l
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(72) calf_l
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(73) foot_l
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(74) cc_base_l_toebasesharebone
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(75) ball_l
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(76) cc_base_l_pinkytoe1
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(77) cc_base_l_ringtoe1
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(78) cc_base_l_midtoe1
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(79) cc_base_l_indextoe1
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(80) cc_base_l_bigtoe1
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(81) calf_twist_01_l
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(82) cc_base_l_kneesharebone
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(83) cc_base_l_calftwist02
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(84) thigh_twist_01_l
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(85) cc_base_l_thightwist02
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(86) thigh_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(87) thigh_twist_01_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(88) calf_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(89) foot_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(90) ball_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(91) cc_base_r_pinkytoe1
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(92) cc_base_r_bigtoe1
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(93) cc_base_r_indextoe1
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(94) cc_base_r_midtoe1
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(95) cc_base_r_ringtoe1
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(96) cc_base_r_toebasesharebone
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(97) cc_base_r_kneesharebone
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(98) calf_twist_01_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(99) cc_base_r_calftwist02
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(100) cc_base_r_thightwist02
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(101) ik_foot_root
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(102) ik_foot_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(103) ik_foot_l
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(104) ik_hand_root
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(105) ik_hand_gun
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(106) ik_hand_r
+[2023.07.26-18.29.56:447][ 55]LogFbx: SortedLinks :(107) ik_hand_l
+[2023.07.26-18.29.56:451][ 55]LogFbx: Parsing AnimStack 0_Open A_UE4
+[2023.07.26-18.30.40:262][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MasterAssets/Characters/Armando/Actorcore_anim/idle_251087_0_Open_A_UE4.idle_251087_0_Open_A_UE4
+[2023.07.26-18.30.40:263][ 55]LogFbx: Parsing AnimStack idle_251087
+[2023.07.26-18.31.28:896][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MasterAssets/Characters/Armando/Actorcore_anim/idle_251087_idle_251087.idle_251087_idle_251087
+[2023.07.26-18.31.28:924][ 55]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 D:\Tend Studio Dropbox\2023\C4HCO_23\ASSETS\actorcore_animations\Motion\idle_251087.json)
+[2023.07.26-18.31.32:552][ 55]LogSlate: Window 'DataTable Options' being destroyed
+[2023.07.26-18.31.32:565][ 55]LogAssetTools: The import task was canceled.
+[2023.07.26-18.31.36:645][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.07.26-18.31.38:607][226]LogSlate: Window 'Save Content' being destroyed
+[2023.07.26-18.31.38:619][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.31.38:685][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCENE1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.26-18.31.38:697][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.07.26-18.31.38:932][226]LogSavePackage: Moving output files for package: /Game/SCENE1
+[2023.07.26-18.31.38:932][226]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/SCENE1FDDC3EC248852690F6F9E78DB938D247.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap'
+[2023.07.26-18.31.38:984][226]LogFileHelpers: Saving map 'SCENE1' took 0.300
+[2023.07.26-18.31.39:054][226]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Armando/Actorcore_anim/idle_251087_0_Open_A_UE4
+[2023.07.26-18.31.39:055][226]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/idle_251087_0_Open_A_UE420D759EF41FEB9DCE29813869DDEB8F7.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Armando/Actorcore_anim/idle_251087_0_Open_A_UE4.uasset'
+[2023.07.26-18.31.43:667][226]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Armando/Actorcore_anim/idle_251087_idle_251087
+[2023.07.26-18.31.43:667][226]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/idle_251087_idle_2510875DE39FAE4AD87A182A270C94278B6127.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Armando/Actorcore_anim/idle_251087_idle_251087.uasset'
+[2023.07.26-18.31.44:150][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.53 sec (total: 14.3 sec)
+[2023.07.26-18.31.44:155][226]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.26-18.31.44:156][226]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/MasterAssets/Characters/Armando/Actorcore_anim/idle_251087_idle_251087.idle_251087_idle_251087
+[2023.07.26-18.31.44:156][226]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/MasterAssets/Characters/Armando/Actorcore_anim/idle_251087_0_Open_A_UE4.idle_251087_0_Open_A_UE4
+[2023.07.26-18.31.44:156][226]LogContentValidation: Display: Validating /Script/Engine.World /Game/SCENE1.SCENE1
+[2023.07.26-18.31.44:941][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.31.44:998][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset" SILENT=true
+[2023.07.26-18.31.45:003][277]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2
+[2023.07.26-18.31.45:004][277]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/EP1_SC1_SH2FE90D55349966FFAAD8CE495480D8ADC.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset'
+[2023.07.26-18.31.45:013][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 14.4 sec)
+[2023.07.26-18.31.45:018][277]AssetCheck: New page: Asset Save: EP1_SC1_SH2
+[2023.07.26-18.31.45:019][277]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2.EP1_SC1_SH2
+[2023.07.26-18.31.47:402][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.31.47:463][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCENE1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.26-18.31.47:474][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.07.26-18.31.47:680][472]LogSavePackage: Moving output files for package: /Game/SCENE1
+[2023.07.26-18.31.47:681][472]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/SCENE13ECAC6204FC0D759C6B3BCAC40D32799.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap'
+[2023.07.26-18.31.47:944][472]LogFileHelpers: Saving map 'SCENE1' took 0.481
+[2023.07.26-18.31.47:953][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 550 ms (total: 14.9 sec)
+[2023.07.26-18.31.47:957][472]AssetCheck: New page: Asset Save: SCENE1
+[2023.07.26-18.31.47:958][472]LogContentValidation: Display: Validating /Script/Engine.World /Game/SCENE1.SCENE1
+[2023.07.26-18.31.49:990][599]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/MasterAssets/Characters/Armando/Actorcore_anim/idle_251087_idle_251087.idle_251087_idle_251087
+[2023.07.26-18.31.49:990][599]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/MasterAssets/Characters/Armando/Actorcore_anim/idle_251087_idle_251087.idle_251087_idle_251087
+[2023.07.26-18.31.49:990][599]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/MasterAssets/Characters/Armando/Actorcore_anim/autorig_actor.autorig_actor as actor: SkeletalMeshActor /Game/SCENE1.SCENE1:PersistentLevel.SkeletalMeshActor_0
+[2023.07.26-18.31.49:992][599]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/MasterAssets/Characters/Armando/Actorcore_anim/autorig_actor.autorig_actor as actor: SkeletalMeshActor /Game/SCENE1.SCENE1:PersistentLevel.SkeletalMeshActor_0
+[2023.07.26-18.31.51:226][684]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/MasterAssets/Characters/Armando/Actorcore_anim/idle_251087_idle_251087.idle_251087_idle_251087
+[2023.07.26-18.31.51:226][684]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/MasterAssets/Characters/Armando/Actorcore_anim/idle_251087_idle_251087.idle_251087_idle_251087
+[2023.07.26-18.31.51:227][684]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/MasterAssets/Characters/Armando/Actorcore_anim/autorig_actor.autorig_actor as actor: SkeletalMeshActor /Game/SCENE1.SCENE1:PersistentLevel.SkeletalMeshActor_1
+[2023.07.26-18.31.51:228][684]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/MasterAssets/Characters/Armando/Actorcore_anim/autorig_actor.autorig_actor as actor: SkeletalMeshActor /Game/SCENE1.SCENE1:PersistentLevel.SkeletalMeshActor_1
+[2023.07.26-18.31.56:424][224]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/MasterAssets/Characters/Armando/Actorcore_anim/idle_251087_idle_251087.idle_251087_idle_251087
+[2023.07.26-18.31.56:425][224]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/MasterAssets/Characters/Armando/Actorcore_anim/idle_251087_idle_251087.idle_251087_idle_251087
+[2023.07.26-18.31.56:426][224]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/MasterAssets/Characters/Armando/Actorcore_anim/autorig_actor.autorig_actor as actor: SkeletalMeshActor /Game/SCENE1.SCENE1:PersistentLevel.SkeletalMeshActor_2
+[2023.07.26-18.31.56:428][224]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/MasterAssets/Characters/Armando/Actorcore_anim/autorig_actor.autorig_actor as actor: SkeletalMeshActor /Game/SCENE1.SCENE1:PersistentLevel.SkeletalMeshActor_2
+[2023.07.26-18.32.29:492][718]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.32.40:010][662]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.32.42:078][782]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.32.55:404][795]LogDerivedDataCache: C:/Users/Tlud8/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:57.146 and deleted 0 files with total size 0 MiB. Scanned 29795 files in 28454 folders with total size 4799 MiB.
+[2023.07.26-18.33.22:186][756]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.33.41:258][175]Cmd: TRANSACTION UNDO
+[2023.07.26-18.33.41:258][175]LogEditorTransaction: Undo Reset Location
+[2023.07.26-18.33.57:481][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.33.57:545][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset" SILENT=true
+[2023.07.26-18.33.57:551][367]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2
+[2023.07.26-18.33.57:551][367]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/EP1_SC1_SH25417BC9D4A3B901F118339A9425D49D0.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset'
+[2023.07.26-18.33.57:560][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 15.0 sec)
+[2023.07.26-18.33.57:568][367]AssetCheck: New page: Asset Save: EP1_SC1_SH2
+[2023.07.26-18.33.57:568][367]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2.EP1_SC1_SH2
+[2023.07.26-18.34.04:467][870]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.34.09:418][264]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.34.14:440][614]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.34.14:501][615]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.34.14:747][622]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.34.20:933][ 67]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.34.20:970][ 68]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.34.21:212][ 84]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.35.04:693][369]Cmd: TRANSACTION UNDO
+[2023.07.26-18.35.04:694][369]LogEditorTransaction: Undo Change Lens Preset
+[2023.07.26-18.35.14:013][ 42]Cmd: TRANSACTION UNDO
+[2023.07.26-18.35.14:013][ 42]LogEditorTransaction: Undo Change Lens Preset
+[2023.07.26-18.35.16:936][206]Cmd: TRANSACTION REDO
+[2023.07.26-18.35.16:936][206]LogEditorTransaction: Redo Change Lens Preset
+[2023.07.26-18.35.27:841][996]Cmd: MODE ROTGRID=1
+[2023.07.26-18.35.28:776][ 55]Cmd: MODE GRID=1
+[2023.07.26-18.35.40:458][888]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.35.40:497][889]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.35.40:734][904]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.36.07:823][693]Cmd: TRANSACTION UNDO
+[2023.07.26-18.36.07:823][693]LogEditorTransaction: Undo Set Transform Key
+[2023.07.26-18.36.08:219][698]Cmd: TRANSACTION UNDO
+[2023.07.26-18.36.08:220][698]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.36.08:439][702]Cmd: TRANSACTION UNDO
+[2023.07.26-18.36.08:439][702]LogEditorTransaction: Undo Set Transform Key
+[2023.07.26-18.36.08:917][738]Cmd: TRANSACTION UNDO
+[2023.07.26-18.36.08:917][738]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.36.09:353][763]Cmd: TRANSACTION UNDO
+[2023.07.26-18.36.09:353][763]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.36.09:779][786]Cmd: TRANSACTION UNDO
+[2023.07.26-18.36.09:779][786]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.36.10:426][824]Cmd: TRANSACTION UNDO
+[2023.07.26-18.36.10:426][824]LogEditorTransaction: Undo Pilot Actor
+[2023.07.26-18.36.34:657][470]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.07.26-18.36.34:657][470]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.07.26-18.36.55:081][948]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.36.55:104][949]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.36.55:380][964]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.37.20:639][915]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.37.25:441][326]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.37.39:528][297]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.37.39:570][298]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.37.39:833][310]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.38.08:996][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.38.09:053][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.38.09:055][352]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.38.09:055][352]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT15A1E4D65D4990D6BB6559AEB51F22A015.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.38.09:063][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 15.1 sec)
+[2023.07.26-18.38.09:069][352]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.38.09:070][352]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.38.24:147][330]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.38.24:171][331]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.38.24:435][347]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.39.36:812][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.39.36:864][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.39.36:866][395]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.39.36:866][395]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT15C54E6FEE4EEA72AA2DDA1696B992B252.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.39.36:874][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 15.1 sec)
+[2023.07.26-18.39.36:880][395]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.39.36:880][395]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.39.43:040][  0]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.07.26-18.39.43:040][  0]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.07.26-18.41.18:768][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.07.26-18.41.20:217][719]LogSlate: Window 'Save Content' being destroyed
+[2023.07.26-18.41.20:228][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.41.20:276][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCENE1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.26-18.41.20:287][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.07.26-18.41.20:494][719]LogSavePackage: Moving output files for package: /Game/SCENE1
+[2023.07.26-18.41.20:494][719]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/SCENE1FB37B6A449F67365C29172A688380805.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap'
+[2023.07.26-18.41.20:566][719]LogFileHelpers: Saving map 'SCENE1' took 0.290
+[2023.07.26-18.41.20:566][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset" SILENT=true
+[2023.07.26-18.41.20:570][719]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2
+[2023.07.26-18.41.20:570][719]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/EP1_SC1_SH20CCBC321459CBB618A898EA34F55AF1A.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset'
+[2023.07.26-18.41.20:579][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 351 ms (total: 15.5 sec)
+[2023.07.26-18.41.20:587][719]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.26-18.41.20:587][719]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2.EP1_SC1_SH2
+[2023.07.26-18.41.20:587][719]LogContentValidation: Display: Validating /Script/Engine.World /Game/SCENE1.SCENE1
+[2023.07.26-18.41.40:792][248]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.42.12:054][390]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.42.22:917][125]Cmd: MODE ROTGRID=0
+[2023.07.26-18.42.58:139][742]Cmd: TRANSACTION UNDO
+[2023.07.26-18.42.58:140][742]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.42.59:427][789]Cmd: TRANSACTION UNDO
+[2023.07.26-18.42.59:427][789]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.42.59:882][821]Cmd: TRANSACTION UNDO
+[2023.07.26-18.42.59:882][821]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.43.00:177][836]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.00:177][836]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.43.00:429][851]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.00:430][851]LogEditorTransaction: Undo Rotate Elements
+[2023.07.26-18.43.00:643][862]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.00:643][862]LogEditorTransaction: Undo Rotate Elements
+[2023.07.26-18.43.00:873][875]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.00:873][875]LogEditorTransaction: Undo Rotate Elements
+[2023.07.26-18.43.01:268][899]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.01:268][899]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.43.01:565][917]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.01:565][917]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.43.01:814][931]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.01:814][931]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.43.02:123][936]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.02:123][936]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.43.02:340][939]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.02:340][939]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.43.02:575][950]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.02:575][950]LogEditorTransaction: Undo Move World Outliner Items
+[2023.07.26-18.43.02:830][965]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.02:830][965]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.43.05:284][101]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.05:285][101]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.43.05:530][109]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.05:530][109]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.43.05:752][112]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.05:752][112]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.43.06:057][116]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.06:057][116]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.43.06:188][120]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.06:188][120]LogEditorTransaction: Undo Reset Rotation
+[2023.07.26-18.43.06:478][136]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.06:478][136]LogEditorTransaction: Undo Reset Location
+[2023.07.26-18.43.07:063][170]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.07:063][170]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.43.07:884][217]Cmd: TRANSACTION UNDO
+[2023.07.26-18.43.07:884][217]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.43.50:060][137]Cmd: DELETE
+[2023.07.26-18.43.50:060][137]Cmd: ACTOR DELETE
+[2023.07.26-18.43.53:690][137]LogSlate: Window 'Message' being destroyed
+[2023.07.26-18.43.53:698][137]Message dialog closed, result: YesAll, title: Message, text: Actor DirtBike_v6_Dirtbike_Mesh_40 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+(Soft) Object /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2.EP1_SC1_SH2
+[2023.07.26-18.43.53:698][137]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.26-18.43.53:700][137]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.26-18.43.53:700][137]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.26-18.43.53:701][137]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.26-18.43.53:711][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.07.26-18.43.53:716][137]LogEditorActor: Deleted 4 Actors (0.028 secs)
+[2023.07.26-18.43.59:304][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_Dirtbike_Mesh_039.DirtBike_v6_Dirtbike_Mesh_039
+[2023.07.26-18.43.59:304][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_Dirtbike_Mesh_039.DirtBike_v6_Dirtbike_Mesh_039
+[2023.07.26-18.43.59:305][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_Dirtbike_Mesh_039.DirtBike_v6_Dirtbike_Mesh_039 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_30
+[2023.07.26-18.43.59:305][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_steering_Mesh_042.DirtBike_v6_steering_Mesh_042
+[2023.07.26-18.43.59:305][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_steering_Mesh_042.DirtBike_v6_steering_Mesh_042
+[2023.07.26-18.43.59:306][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_steering_Mesh_042.DirtBike_v6_steering_Mesh_042 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_31
+[2023.07.26-18.43.59:306][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_a_Mesh_040.DirtBike_v6_tire_a_Mesh_040
+[2023.07.26-18.43.59:306][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_a_Mesh_040.DirtBike_v6_tire_a_Mesh_040
+[2023.07.26-18.43.59:306][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_a_Mesh_040.DirtBike_v6_tire_a_Mesh_040 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_32
+[2023.07.26-18.43.59:307][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_b_Mesh_041.DirtBike_v6_tire_b_Mesh_041
+[2023.07.26-18.43.59:307][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_b_Mesh_041.DirtBike_v6_tire_b_Mesh_041
+[2023.07.26-18.43.59:307][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_b_Mesh_041.DirtBike_v6_tire_b_Mesh_041 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_33
+[2023.07.26-18.44.04:218][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_Dirtbike_Mesh_039.DirtBike_v6_Dirtbike_Mesh_039
+[2023.07.26-18.44.04:218][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_Dirtbike_Mesh_039.DirtBike_v6_Dirtbike_Mesh_039
+[2023.07.26-18.44.04:218][893]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_Dirtbike_Mesh_039.DirtBike_v6_Dirtbike_Mesh_039 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_34
+[2023.07.26-18.44.04:219][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_steering_Mesh_042.DirtBike_v6_steering_Mesh_042
+[2023.07.26-18.44.04:219][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_steering_Mesh_042.DirtBike_v6_steering_Mesh_042
+[2023.07.26-18.44.04:219][893]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_steering_Mesh_042.DirtBike_v6_steering_Mesh_042 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_35
+[2023.07.26-18.44.04:220][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_a_Mesh_040.DirtBike_v6_tire_a_Mesh_040
+[2023.07.26-18.44.04:220][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_a_Mesh_040.DirtBike_v6_tire_a_Mesh_040
+[2023.07.26-18.44.04:220][893]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_a_Mesh_040.DirtBike_v6_tire_a_Mesh_040 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_40
+[2023.07.26-18.44.04:220][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_b_Mesh_041.DirtBike_v6_tire_b_Mesh_041
+[2023.07.26-18.44.04:220][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_b_Mesh_041.DirtBike_v6_tire_b_Mesh_041
+[2023.07.26-18.44.04:221][893]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_b_Mesh_041.DirtBike_v6_tire_b_Mesh_041 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_41
+[2023.07.26-18.44.15:376][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_Dirtbike_Mesh_039.DirtBike_v6_Dirtbike_Mesh_039
+[2023.07.26-18.44.15:376][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_Dirtbike_Mesh_039.DirtBike_v6_Dirtbike_Mesh_039
+[2023.07.26-18.44.15:377][875]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_Dirtbike_Mesh_039.DirtBike_v6_Dirtbike_Mesh_039 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_42
+[2023.07.26-18.44.15:398][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_steering_Mesh_042.DirtBike_v6_steering_Mesh_042
+[2023.07.26-18.44.15:398][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_steering_Mesh_042.DirtBike_v6_steering_Mesh_042
+[2023.07.26-18.44.15:399][875]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_steering_Mesh_042.DirtBike_v6_steering_Mesh_042 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_43
+[2023.07.26-18.44.15:415][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_a_Mesh_040.DirtBike_v6_tire_a_Mesh_040
+[2023.07.26-18.44.15:416][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_a_Mesh_040.DirtBike_v6_tire_a_Mesh_040
+[2023.07.26-18.44.15:416][875]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_a_Mesh_040.DirtBike_v6_tire_a_Mesh_040 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_44
+[2023.07.26-18.44.15:432][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_b_Mesh_041.DirtBike_v6_tire_b_Mesh_041
+[2023.07.26-18.44.15:432][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_b_Mesh_041.DirtBike_v6_tire_b_Mesh_041
+[2023.07.26-18.44.15:433][875]LogActorFactory: Actor Factory spawned StaticMesh /Game/MasterAssets/Props/Dirtbike_V6/DirtBike_v6_tire_b_Mesh_041.DirtBike_v6_tire_b_Mesh_041 as actor: StaticMeshActor /Game/SCENE1.SCENE1:PersistentLevel.StaticMeshActor_45
+[2023.07.26-18.44.17:994][ 41]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.44.20:422][202]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.44.26:554][569]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.44.33:979][ 36]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.44.37:013][238]Cmd: TRANSACTION UNDO
+[2023.07.26-18.44.37:013][238]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.44.55:345][412]Cmd: TRANSACTION UNDO
+[2023.07.26-18.44.55:345][412]LogEditorTransaction: Undo Move Elements
+[2023.07.26-18.45.01:846][788]Cmd: TRANSACTION UNDO
+[2023.07.26-18.45.01:846][788]LogEditorTransaction: Undo Rotate Elements
+[2023.07.26-18.45.02:185][794]Cmd: TRANSACTION UNDO
+[2023.07.26-18.45.02:185][794]LogEditorTransaction: Undo Rotate Elements
+[2023.07.26-18.45.37:289][253]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.45.52:572][516]EditorErrors: New page: Actor attachment
+[2023.07.26-18.45.56:104][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.45.56:154][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.45.56:156][781]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.45.56:167][781]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT15DA5A79404546DCF75F663C9C615E9ABA.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.45.56:174][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 15.5 sec)
+[2023.07.26-18.45.56:180][781]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.45.56:180][781]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.45.57:627][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.07.26-18.45.59:571][890]LogSlate: Window 'Save Content' being destroyed
+[2023.07.26-18.45.59:580][890]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.45.59:638][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCENE1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.26-18.45.59:648][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.07.26-18.45.59:856][890]LogSavePackage: Moving output files for package: /Game/SCENE1
+[2023.07.26-18.45.59:857][890]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/SCENE1B618ECFB4A76E090F1C42F8E12925058.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/SCENE1.umap'
+[2023.07.26-18.45.59:899][890]LogFileHelpers: Saving map 'SCENE1' took 0.261
+[2023.07.26-18.45.59:900][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/Shots/EP1_SC1_SH1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH1.uasset" SILENT=true
+[2023.07.26-18.45.59:903][890]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH1
+[2023.07.26-18.45.59:903][890]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/EP1_SC1_SH160D9532442E13D342788EA96AFD7039A.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH1.uasset'
+[2023.07.26-18.45.59:911][890]LogFileHelpers: InternalPromptForCheckoutAndSave took 329 ms (total: 15.9 sec)
+[2023.07.26-18.45.59:918][890]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.26-18.45.59:918][890]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH1.EP1_SC1_SH1
+[2023.07.26-18.45.59:918][890]LogContentValidation: Display: Validating /Script/Engine.World /Game/SCENE1.SCENE1
+[2023.07.26-18.46.02:118][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.46.02:187][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset" SILENT=true
+[2023.07.26-18.46.02:192][ 46]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2
+[2023.07.26-18.46.02:192][ 46]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/EP1_SC1_SH22256DFF545E514275AE49A98AD0C4586.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset'
+[2023.07.26-18.46.02:199][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 16.0 sec)
+[2023.07.26-18.46.02:206][ 46]AssetCheck: New page: Asset Save: EP1_SC1_SH2
+[2023.07.26-18.46.02:207][ 46]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2.EP1_SC1_SH2
+[2023.07.26-18.46.04:433][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.46.04:504][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset" SILENT=true
+[2023.07.26-18.46.04:509][219]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2
+[2023.07.26-18.46.04:509][219]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/EP1_SC1_SH22060C47D464C8ADA808ECB9701C725A5.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset'
+[2023.07.26-18.46.04:517][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 16.0 sec)
+[2023.07.26-18.46.04:522][219]AssetCheck: New page: Asset Save: EP1_SC1_SH2
+[2023.07.26-18.46.04:522][219]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2.EP1_SC1_SH2
+[2023.07.26-18.46.52:411][ 75]Cmd: TRANSACTION UNDO
+[2023.07.26-18.46.52:411][ 75]LogEditorTransaction: Undo Move Keys or Sections
+[2023.07.26-18.47.18:378][981]Cmd: TRANSACTION UNDO
+[2023.07.26-18.47.18:378][981]LogEditorTransaction: Undo Move Keys or Sections
+[2023.07.26-18.48.11:850][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.48.11:902][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.48.11:903][245]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.48.11:904][245]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT15C6C4A26F41A5EC9DEF0D8F8E9E6DF7D0.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.48.11:911][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 16.1 sec)
+[2023.07.26-18.48.11:916][245]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.48.11:917][245]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.48.24:278][211]Cmd: TRANSACTION UNDO
+[2023.07.26-18.48.24:278][211]LogEditorTransaction: Undo Move Keys or Sections
+[2023.07.26-18.48.42:803][762]Cmd: TRANSACTION UNDO
+[2023.07.26-18.48.42:803][762]LogEditorTransaction: Undo Move Keys or Sections
+[2023.07.26-18.48.44:478][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.48.44:540][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.48.44:542][842]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.48.44:542][842]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT15A4C0AF174A290982B1E627A60D2D041D.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.48.44:552][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 16.2 sec)
+[2023.07.26-18.48.44:557][842]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.48.44:558][842]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.49.00:791][148]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.49.01:526][202]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.49.22:548][913]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.49.23:090][957]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.49.45:653][614]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.49.47:341][729]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.49.59:393][253]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.50.04:724][591]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.26-18.50.04:768][592]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.50.05:050][604]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.51.06:357][707]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.51.09:535][968]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.52.06:956][  8]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.52.07:167][ 23]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.52.18:472][123]Cmd: TRANSACTION UNDO
+[2023.07.26-18.52.18:473][123]LogEditorTransaction: Undo Animatable Property Changed
+[2023.07.26-18.52.19:946][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.52.20:013][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.52.20:015][194]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.52.20:015][194]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT1598FD51AE4E8D6504DEA06D92310E2F20.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.52.20:025][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 16.2 sec)
+[2023.07.26-18.52.20:032][194]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.52.20:033][194]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.52.23:085][292]LogSlate: Window 'Save Content' being destroyed
+[2023.07.26-18.52.23:097][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.52.23:145][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/Shots/EP1_SC1_SH1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH1.uasset" SILENT=true
+[2023.07.26-18.52.23:149][292]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH1
+[2023.07.26-18.52.23:150][292]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/EP1_SC1_SH192E7F15F4C16B7F8AFA26DBB5825F8D2.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH1.uasset'
+[2023.07.26-18.52.23:150][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset" SILENT=true
+[2023.07.26-18.52.23:153][292]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2
+[2023.07.26-18.52.23:153][292]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/EP1_SC1_SH2B1A63F7B44D83C79631BE9BD9ECBBEDA.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset'
+[2023.07.26-18.52.23:154][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.52.23:156][292]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.52.23:156][292]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT1510731B8E4414A2362E37E7AD45270358.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.52.23:165][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 16.3 sec)
+[2023.07.26-18.52.23:171][292]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.26-18.52.23:172][292]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2.EP1_SC1_SH2
+[2023.07.26-18.52.23:172][292]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.52.23:172][292]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH1.EP1_SC1_SH1
+[2023.07.26-18.52.25:386][432]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.52.42:612][669]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.52.44:616][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.52.44:679][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.52.44:681][813]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.52.44:692][813]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT150E66D24A48316B85D8E206AE08A97684.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.52.44:700][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 16.4 sec)
+[2023.07.26-18.52.44:705][813]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.52.44:706][813]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.52.55:637][740]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.53.01:352][281]Cmd: TRANSACTION UNDO
+[2023.07.26-18.53.01:352][281]LogEditorTransaction: Undo Animatable Property Changed
+[2023.07.26-18.53.12:047][228]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.53.13:084][301]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.53.16:690][534]Cmd: TRANSACTION UNDO
+[2023.07.26-18.53.16:690][534]LogEditorTransaction: Undo Drop Actors
+[2023.07.26-18.53.25:240][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.53.25:300][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.53.25:302][181]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.53.25:302][181]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT15963ECD6B429E4AEAABFA92A9A4359C46.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.53.25:310][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 16.5 sec)
+[2023.07.26-18.53.25:315][181]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.53.25:316][181]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.53.30:888][631]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.53.35:106][993]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.53.36:205][ 73]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.53.40:173][433]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.53.43:787][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.53.43:854][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.53.43:856][720]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.53.43:856][720]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT15C104BA5C44633C716ECA99BF0075FDF2.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.53.43:864][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 16.5 sec)
+[2023.07.26-18.53.43:870][720]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.53.43:870][720]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.53.51:200][207]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.54.08:893][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.54.08:955][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.54.08:956][ 43]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.54.08:957][ 43]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT15E59355B54D0CE8761328CCA3ADA4244E.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.54.08:965][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 16.6 sec)
+[2023.07.26-18.54.08:970][ 43]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.54.08:970][ 43]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.54.20:477][ 11]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.54.30:560][911]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.54.42:378][839]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.54.45:560][109]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.55.02:207][219]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.55.02:988][265]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.55.04:588][367]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.55.07:748][578]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.55.09:274][616]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.55.10:549][654]Cmd: TRANSACTION UNDO
+[2023.07.26-18.55.10:549][654]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.55.10:770][655]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.55.11:121][665]Cmd: TRANSACTION UNDO
+[2023.07.26-18.55.11:121][665]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.55.11:878][717]Cmd: TRANSACTION UNDO
+[2023.07.26-18.55.11:878][717]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.26-18.55.11:988][718]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.55.12:663][733]Cmd: TRANSACTION UNDO
+[2023.07.26-18.55.12:664][733]LogEditorTransaction: Undo Select Actors/Components
+[2023.07.26-18.55.13:091][755]Cmd: TRANSACTION UNDO
+[2023.07.26-18.55.13:091][755]LogEditorTransaction: Undo Delete Node
+[2023.07.26-18.55.29:865][105]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.55.31:263][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.55.31:314][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.55.31:316][213]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.55.31:316][213]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT15B00390BA482482307B98DBB3EDD5BCF5.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.55.31:324][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 16.7 sec)
+[2023.07.26-18.55.31:329][213]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.55.31:330][213]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.55.47:148][693]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.56.10:948][801]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.56.13:673][911]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.56.16:546][ 86]LogViewport: Scene viewport resized to 317x178, mode Windowed.
+[2023.07.26-18.56.20:494][345]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.56.22:147][441]LogViewport: Scene viewport resized to 1004x565, mode Windowed.
+[2023.07.26-18.56.22:916][483]LogViewport: Scene viewport resized to 1537x565, mode Windowed.
+[2023.07.26-18.56.29:156][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.56.29:222][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.56.29:226][930]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.56.29:226][930]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT154FB94F2144F7FC30934802ACA26C037E.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.56.29:234][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 16.8 sec)
+[2023.07.26-18.56.29:241][930]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.56.29:242][930]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
+[2023.07.26-18.56.32:589][ 38]LogSlate: Window 'Save Content' being destroyed
+[2023.07.26-18.56.32:600][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.56.32:656][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/Shots/EP1_SC1_SH1" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH1.uasset" SILENT=true
+[2023.07.26-18.56.32:660][ 38]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH1
+[2023.07.26-18.56.32:660][ 38]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/EP1_SC1_SH1FE85B55A41CCAA6923577C853110394A.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH1.uasset'
+[2023.07.26-18.56.32:661][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset" SILENT=true
+[2023.07.26-18.56.32:664][ 38]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2
+[2023.07.26-18.56.32:664][ 38]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/EP1_SC1_SH24810E96246F209D4C68F449397460A14.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/Shots/EP1_SC1_SH2.uasset'
+[2023.07.26-18.56.32:672][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 16.8 sec)
+[2023.07.26-18.56.32:691][ 38]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.26-18.56.32:692][ 38]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH2.EP1_SC1_SH2
+[2023.07.26-18.56.32:692][ 38]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/Shots/EP1_SC1_SH1.EP1_SC1_SH1
+[2023.07.26-18.56.41:620][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-18.56.41:688][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterSequence/Episode1/LSEP1EDIT15" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset" SILENT=true
+[2023.07.26-18.56.41:693][912]LogSavePackage: Moving output files for package: /Game/MasterSequence/Episode1/LSEP1EDIT15
+[2023.07.26-18.56.41:693][912]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/LSEP1EDIT153FB813A2441F64693FBEF1811BA8343B.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterSequence/Episode1/LSEP1EDIT15.uasset'
+[2023.07.26-18.56.41:701][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 16.9 sec)
+[2023.07.26-18.56.41:706][912]AssetCheck: New page: Asset Save: LSEP1EDIT15
+[2023.07.26-18.56.41:708][912]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/MasterSequence/Episode1/LSEP1EDIT15.LSEP1EDIT15
