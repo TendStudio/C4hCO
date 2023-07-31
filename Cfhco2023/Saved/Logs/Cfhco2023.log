@@ -1192,3 +1192,1700 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2023.07.31-22.21.47:062][862]AssetCheck: New page: Asset Save: Episode1
 [2023.07.31-22.21.47:062][862]LogContentValidation: Display: Validating /Script/Engine.World /Game/Episode1.Episode1
 [2023.07.31-22.21.47:531][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.07.31-22.22.52:026][351]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Tend Studio Dropbox/2023/C4HCO_23/ASSETS/FromWayne/Picnic_Pack/Marissa/Marissa_Mesh_rigged.fbx)
+[2023.07.31-22.22.52:084][351]LogFbx: Loading FBX Scene from D:/Tend Studio Dropbox/2023/C4HCO_23/ASSETS/FromWayne/Picnic_Pack/Marissa/Marissa_Mesh_rigged.fbx
+[2023.07.31-22.22.53:338][351]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.31-22.22.57:750][351]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.31-22.22.57:775][351]LogFbx: Warning: Not valid bind pose for Pose () - Node marissa_mesh : The relative matrices do not match
+[2023.07.31-22.22.57:775][351]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2023.07.31-22.22.57:777][351]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - marissa_mesh
+[2023.07.31-22.22.57:777][351]LogFbx: Warning: Recreating bind pose succeeded.
+[2023.07.31-22.22.57:802][351]LogMaterial: Display: Material /Game/MasterAssets/Characters/Marissa/Marissa_Scarf.Marissa_Scarf needed to have new flag set bUsedWithSkeletalMesh !
+[2023.07.31-22.22.58:015][351]LogMaterial: Display: Material /Game/MasterAssets/Characters/Marissa/Mimi_Shoes.Mimi_Shoes needed to have new flag set bUsedWithSkeletalMesh !
+[2023.07.31-22.22.58:160][351]LogMaterial: Display: Material /Game/MasterAssets/Characters/Marissa/Marissa_Hair.Marissa_Hair needed to have new flag set bUsedWithSkeletalMesh !
+[2023.07.31-22.22.58:278][351]LogMaterial: Display: Material /Game/MasterAssets/Characters/Marissa/Marissa_Shorts.Marissa_Shorts needed to have new flag set bUsedWithSkeletalMesh !
+[2023.07.31-22.22.58:391][351]LogMaterial: Display: Material /Game/MasterAssets/Characters/Marissa/Marissa_Skin.Marissa_Skin needed to have new flag set bUsedWithSkeletalMesh !
+[2023.07.31-22.22.58:513][351]LogMaterial: Display: Material /Game/MasterAssets/Characters/Marissa/Marissa_Face.Marissa_Face needed to have new flag set bUsedWithSkeletalMesh !
+[2023.07.31-22.22.58:627][351]LogMaterial: Display: Material /Game/MasterAssets/Characters/Marissa/Marissa_Leggings.Marissa_Leggings needed to have new flag set bUsedWithSkeletalMesh !
+[2023.07.31-22.22.58:742][351]LogMaterial: Display: Material /Game/MasterAssets/Characters/Marissa/Marissa_Shirt.Marissa_Shirt needed to have new flag set bUsedWithSkeletalMesh !
+[2023.07.31-22.22.58:857][351]LogFbx: Triangulating skeletal mesh marissa_mesh
+[2023.07.31-22.23.03:430][351]LogFbx: Bones digested - 108  Depth of hierarchy - 12
+[2023.07.31-22.24.09:884][351]LogSkeletalMesh: Section 0: Material=0, 16128 triangles
+[2023.07.31-22.24.09:884][351]LogSkeletalMesh: Section 1: Material=1, 11584 triangles
+[2023.07.31-22.24.09:884][351]LogSkeletalMesh: Section 2: Material=2, 218218 triangles
+[2023.07.31-22.24.09:884][351]LogSkeletalMesh: Section 3: Material=3, 13916 triangles
+[2023.07.31-22.24.09:884][351]LogSkeletalMesh: Section 4: Material=4, 24672 triangles
+[2023.07.31-22.24.09:884][351]LogSkeletalMesh: Section 5: Material=5, 36032 triangles
+[2023.07.31-22.24.09:884][351]LogSkeletalMesh: Section 6: Material=6, 8288 triangles
+[2023.07.31-22.24.09:884][351]LogSkeletalMesh: Section 7: Material=7, 8672 triangles
+[2023.07.31-22.24.09:928][351]LogSkeletalMesh: Building Skeletal Mesh Marissa_Mesh_rigged...
+[2023.07.31-22.24.09:966][351]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Marissa_Mesh_rigged) ...
+[2023.07.31-22.24.19:950][351]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
+[2023.07.31-22.24.20:910][351]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.049973s
+[2023.07.31-22.25.18:983][351]LogSkeletalMesh: Built Skeletal Mesh [69.05s] /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged.Marissa_Mesh_rigged
+[2023.07.31-22.25.19:085][351]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 0.002953s (58.218669s overbudget)
+[2023.07.31-22.25.19:272][351]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-22.25.19:284][351]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.07.31-22.25.19:284][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(0) root
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(1) pelvis
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(2) cc_base_pelvis
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(3) spine_01
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(4) spine_02
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(5) spine_03
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(6) neck_01
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(7) cc_base_necktwist02
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(8) head
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(9) cc_base_facialbone
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(10) cc_base_jawroot
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(11) cc_base_tongue01
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(12) cc_base_tongue02
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(13) cc_base_tongue03
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(14) cc_base_teeth02
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(15) cc_base_r_eye
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(16) cc_base_l_eye
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(17) cc_base_upperjaw
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(18) cc_base_teeth01
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(19) clavicle_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(20) upperarm_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(21) lowerarm_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(22) cc_base_l_forearmtwist01
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(23) cc_base_l_elbowsharebone
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(24) hand_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(25) middle_01_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(26) middle_02_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(27) middle_03_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(28) index_01_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(29) index_02_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(30) index_03_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(31) ring_01_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(32) ring_02_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(33) ring_03_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(34) pinky_01_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(35) pinky_02_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(36) pinky_03_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(37) thumb_01_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(38) thumb_02_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(39) thumb_03_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(40) lowerarm_twist_01_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(41) upperarm_twist_01_l
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(42) cc_base_l_upperarmtwist02
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(43) clavicle_r
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(44) upperarm_r
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(45) upperarm_twist_01_r
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(46) cc_base_r_upperarmtwist02
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(47) lowerarm_r
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(48) cc_base_r_forearmtwist01
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(49) cc_base_r_elbowsharebone
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(50) hand_r
+[2023.07.31-22.25.19:301][351]LogFbx: SortedLinks :(51) middle_01_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(52) middle_02_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(53) middle_03_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(54) ring_01_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(55) ring_02_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(56) ring_03_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(57) thumb_01_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(58) thumb_02_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(59) thumb_03_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(60) index_01_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(61) index_02_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(62) index_03_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(63) pinky_01_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(64) pinky_02_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(65) pinky_03_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(66) lowerarm_twist_01_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(67) cc_base_r_ribstwist
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(68) cc_base_r_breast
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(69) cc_base_l_ribstwist
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(70) cc_base_l_breast
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(71) thigh_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(72) calf_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(73) foot_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(74) cc_base_l_toebasesharebone
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(75) ball_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(76) cc_base_l_pinkytoe1
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(77) cc_base_l_ringtoe1
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(78) cc_base_l_midtoe1
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(79) cc_base_l_indextoe1
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(80) cc_base_l_bigtoe1
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(81) calf_twist_01_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(82) cc_base_l_kneesharebone
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(83) cc_base_l_calftwist02
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(84) thigh_twist_01_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(85) cc_base_l_thightwist02
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(86) thigh_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(87) thigh_twist_01_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(88) calf_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(89) foot_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(90) ball_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(91) cc_base_r_pinkytoe1
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(92) cc_base_r_bigtoe1
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(93) cc_base_r_indextoe1
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(94) cc_base_r_midtoe1
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(95) cc_base_r_ringtoe1
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(96) cc_base_r_toebasesharebone
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(97) cc_base_r_kneesharebone
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(98) calf_twist_01_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(99) cc_base_r_calftwist02
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(100) cc_base_r_thightwist02
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(101) ik_foot_root
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(102) ik_foot_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(103) ik_foot_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(104) ik_hand_root
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(105) ik_hand_gun
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(106) ik_hand_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(107) ik_hand_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(0) root
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(1) pelvis
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(2) cc_base_pelvis
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(3) spine_01
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(4) spine_02
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(5) spine_03
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(6) neck_01
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(7) cc_base_necktwist02
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(8) head
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(9) cc_base_facialbone
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(10) cc_base_jawroot
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(11) cc_base_tongue01
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(12) cc_base_tongue02
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(13) cc_base_tongue03
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(14) cc_base_teeth02
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(15) cc_base_r_eye
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(16) cc_base_l_eye
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(17) cc_base_upperjaw
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(18) cc_base_teeth01
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(19) clavicle_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(20) upperarm_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(21) lowerarm_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(22) cc_base_l_forearmtwist01
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(23) cc_base_l_elbowsharebone
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(24) hand_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(25) middle_01_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(26) middle_02_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(27) middle_03_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(28) index_01_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(29) index_02_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(30) index_03_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(31) ring_01_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(32) ring_02_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(33) ring_03_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(34) pinky_01_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(35) pinky_02_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(36) pinky_03_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(37) thumb_01_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(38) thumb_02_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(39) thumb_03_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(40) lowerarm_twist_01_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(41) upperarm_twist_01_l
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(42) cc_base_l_upperarmtwist02
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(43) clavicle_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(44) upperarm_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(45) upperarm_twist_01_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(46) cc_base_r_upperarmtwist02
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(47) lowerarm_r
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(48) cc_base_r_forearmtwist01
+[2023.07.31-22.25.19:302][351]LogFbx: SortedLinks :(49) cc_base_r_elbowsharebone
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(50) hand_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(51) middle_01_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(52) middle_02_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(53) middle_03_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(54) ring_01_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(55) ring_02_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(56) ring_03_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(57) thumb_01_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(58) thumb_02_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(59) thumb_03_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(60) index_01_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(61) index_02_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(62) index_03_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(63) pinky_01_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(64) pinky_02_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(65) pinky_03_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(66) lowerarm_twist_01_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(67) cc_base_r_ribstwist
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(68) cc_base_r_breast
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(69) cc_base_l_ribstwist
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(70) cc_base_l_breast
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(71) thigh_l
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(72) calf_l
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(73) foot_l
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(74) cc_base_l_toebasesharebone
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(75) ball_l
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(76) cc_base_l_pinkytoe1
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(77) cc_base_l_ringtoe1
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(78) cc_base_l_midtoe1
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(79) cc_base_l_indextoe1
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(80) cc_base_l_bigtoe1
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(81) calf_twist_01_l
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(82) cc_base_l_kneesharebone
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(83) cc_base_l_calftwist02
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(84) thigh_twist_01_l
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(85) cc_base_l_thightwist02
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(86) thigh_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(87) thigh_twist_01_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(88) calf_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(89) foot_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(90) ball_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(91) cc_base_r_pinkytoe1
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(92) cc_base_r_bigtoe1
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(93) cc_base_r_indextoe1
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(94) cc_base_r_midtoe1
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(95) cc_base_r_ringtoe1
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(96) cc_base_r_toebasesharebone
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(97) cc_base_r_kneesharebone
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(98) calf_twist_01_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(99) cc_base_r_calftwist02
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(100) cc_base_r_thightwist02
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(101) ik_foot_root
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(102) ik_foot_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(103) ik_foot_l
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(104) ik_hand_root
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(105) ik_hand_gun
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(106) ik_hand_r
+[2023.07.31-22.25.19:303][351]LogFbx: SortedLinks :(107) ik_hand_l
+[2023.07.31-22.25.19:307][351]LogFbx: Parsing AnimStack 0_Open A_UE4
+[2023.07.31-22.25.19:357][351]LogFbx: Warning: CurveName(V_None) is skipped because it only contains invalid values.
+[2023.07.31-22.25.19:489][351]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged_Anim_0_Open_A_UE4.Marissa_Mesh_rigged_Anim_0_Open_A_UE4
+[2023.07.31-22.25.19:493][351]LogFbx: Parsing AnimStack 0_T-Pose
+[2023.07.31-22.25.19:542][351]LogFbx: Warning: CurveName(V_None) is skipped because it only contains invalid values.
+[2023.07.31-22.25.19:687][351]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged_Anim_0_T-Pose.Marissa_Mesh_rigged_Anim_0_T-Pose
+[2023.07.31-22.25.19:720][351]FBXImport: Warning: The following bones are missing from the bind pose:
+ik_foot_root  
+ik_foot_r  
+ik_foot_l  
+ik_hand_root  
+ik_hand_gun  
+ik_hand_r  
+ik_hand_l  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2023.07.31-22.25.19:804][351]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Marissa_Mesh_rigged) ...
+[2023.07.31-22.25.20:340][353]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Marissa_Mesh_rigged) ...
+[2023.07.31-22.25.20:841][355]LogShaderCompilers: Display: ================================================
+[2023.07.31-22.25.20:841][355]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.31-22.25.20:841][355]LogShaderCompilers: Display: Total job queries 670, among them cache hits 69 (10.30%)
+[2023.07.31-22.25.20:841][355]LogShaderCompilers: Display: Tracking 336 distinct input hashes that result in 187 distinct outputs (55.65%)
+[2023.07.31-22.25.20:841][355]LogShaderCompilers: Display: RAM used: 3.12 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.10%
+[2023.07.31-22.25.20:841][355]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.31-22.25.20:841][355]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.31-22.25.20:841][355]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.31-22.25.20:841][355]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.31-22.25.20:841][355]LogShaderCompilers: Display: ================================================
+[2023.07.31-22.25.21:058][358]LogD3D12RHI: Creating RTPSO with 37 shaders (0 cached, 1 new) took 10.35 ms. Compile time 8.65 ms, link time 1.66 ms.
+[2023.07.31-22.26.15:931][268]LogSlate: Window 'Message Log' being destroyed
+[2023.07.31-22.26.15:938][268]LogSlate: Window 'Message Log' being destroyed
+[2023.07.31-22.26.17:389][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.07.31-22.26.19:256][360]LogSlate: Window 'Save Content' being destroyed
+[2023.07.31-22.26.19:265][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-22.26.21:342][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.07.31-22.26.22:239][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049962s
+[2023.07.31-22.26.23:486][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004846s (1.292748s overbudget)
+[2023.07.31-22.26.23:596][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterAssets/Characters/Marissa/Marissa_Face" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Face.uasset" SILENT=true
+[2023.07.31-22.26.23:598][360]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Face
+[2023.07.31-22.26.23:599][360]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_FaceEBD2B5B541EECE0CD3B6E7BD900C8C7C.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Face.uasset'
+[2023.07.31-22.26.25:651][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.26.25:868][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003081s (0.219824s overbudget)
+[2023.07.31-22.26.25:907][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterAssets/Characters/Marissa/Marissa_Hair" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Hair.uasset" SILENT=true
+[2023.07.31-22.26.25:908][360]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Hair
+[2023.07.31-22.26.25:908][360]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Hair19E3035A44F6026561607B86E5E3ECA1.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Hair.uasset'
+[2023.07.31-22.26.27:965][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.26.28:144][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004214s (0.184426s overbudget)
+[2023.07.31-22.26.28:191][360]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Leggings
+[2023.07.31-22.26.28:191][360]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Leggings3F31599D4341DA7B1EBEDC94B6FE1C5A.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Leggings.uasset'
+[2023.07.31-22.26.28:938][360]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged
+[2023.07.31-22.26.28:938][360]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Mesh_rigged885C91DF4ABB9C945FE4EF8506BF4337.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged.uasset'
+[2023.07.31-22.26.29:009][360]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged_Anim_0_Open_A_UE4
+[2023.07.31-22.26.29:009][360]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Mesh_rigged_Anim_0_Open_C5D1240F428EF729B21AC5958F3C041F.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged_Anim_0_Open_A_UE4.uasset'
+[2023.07.31-22.26.29:072][360]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged_Anim_0_T-Pose
+[2023.07.31-22.26.29:072][360]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Mesh_rigged_Anim_0_T-Pos678540DD4943FD1FDE6FFB8C998CFDA0.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged_Anim_0_T-Pose.uasset'
+[2023.07.31-22.26.29:131][360]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged_PhysicsAsset
+[2023.07.31-22.26.29:131][360]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Mesh_rigged_PhysicsAsset752E89C34858D1FBFF4E7A87A9A0AA68.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged_PhysicsAsset.uasset'
+[2023.07.31-22.26.29:188][360]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged_Skeleton
+[2023.07.31-22.26.29:188][360]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Mesh_rigged_SkeletonB47D45F2448E0475F62B3FAFEDEF517B.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged_Skeleton.uasset'
+[2023.07.31-22.26.31:241][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.26.31:407][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005062s (0.168289s overbudget)
+[2023.07.31-22.26.31:432][360]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Scarf
+[2023.07.31-22.26.31:432][360]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_ScarfE4F9D3704091FEF535BE55A32F4796EF.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Scarf.uasset'
+[2023.07.31-22.26.33:489][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.26.33:694][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004132s (0.208942s overbudget)
+[2023.07.31-22.26.33:744][360]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Shirt
+[2023.07.31-22.26.33:744][360]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Shirt98AA02134A278735035EC690AB484FD3.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Shirt.uasset'
+[2023.07.31-22.26.35:800][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.26.35:943][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005008s (0.145717s overbudget)
+[2023.07.31-22.26.35:990][360]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Shorts
+[2023.07.31-22.26.35:990][360]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Shorts7651BAE44FBEE54B10CD89AD7A45A0D0.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Shorts.uasset'
+[2023.07.31-22.26.38:045][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.26.38:313][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005073s (0.270384s overbudget)
+[2023.07.31-22.26.38:351][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterAssets/Characters/Marissa/Marissa_Skin" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Skin.uasset" SILENT=true
+[2023.07.31-22.26.38:352][360]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Skin
+[2023.07.31-22.26.38:352][360]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Skin4B7D1E044DCE106FBA9DB19362B05676.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Skin.uasset'
+[2023.07.31-22.26.40:411][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.26.40:580][360]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001074s (0.174390s overbudget)
+[2023.07.31-22.26.40:620][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterAssets/Characters/Marissa/Mimi_Shoes" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Mimi_Shoes.uasset" SILENT=true
+[2023.07.31-22.26.40:661][360]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Mimi_Shoes
+[2023.07.31-22.26.40:661][360]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Mimi_Shoes4402317A45FD887B3F7C5CB5DB2CB0F0.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Mimi_Shoes.uasset'
+[2023.07.31-22.26.40:667][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 21.4 sec (total: 21.8 sec)
+[2023.07.31-22.26.40:674][360]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.31-22.26.40:674][360]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged_Anim_0_T-Pose.Marissa_Mesh_rigged_Anim_0_T-Pose
+[2023.07.31-22.26.40:674][360]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged_Anim_0_Open_A_UE4.Marissa_Mesh_rigged_Anim_0_Open_A_UE4
+[2023.07.31-22.26.40:674][360]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged_PhysicsAsset.Marissa_Mesh_rigged_PhysicsAsset
+[2023.07.31-22.26.40:674][360]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged_Skeleton.Marissa_Mesh_rigged_Skeleton
+[2023.07.31-22.26.40:674][360]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Shirt.Marissa_Shirt
+[2023.07.31-22.26.40:674][360]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Leggings.Marissa_Leggings
+[2023.07.31-22.26.40:674][360]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Face.Marissa_Face
+[2023.07.31-22.26.40:674][360]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Skin.Marissa_Skin
+[2023.07.31-22.26.40:674][360]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Shorts.Marissa_Shorts
+[2023.07.31-22.26.40:674][360]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Hair.Marissa_Hair
+[2023.07.31-22.26.40:674][360]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Mimi_Shoes.Mimi_Shoes
+[2023.07.31-22.26.40:674][360]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Scarf.Marissa_Scarf
+[2023.07.31-22.26.40:674][360]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged.Marissa_Mesh_rigged
+[2023.07.31-22.26.52:255][107]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.31-22.26.52:265][107]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.31-22.26.52:278][108]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.07.31-22.27.01:214][623]LogContentBrowser: Attempting asset rename: NewFolder -> MarissaTextures
+[2023.07.31-22.27.01:214][623]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.31-22.27.13:740][130]LogInterchangeEngine: [Pending] Importing
+[2023.07.31-22.27.13:740][130]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.31-22.27.13:740][130]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.31-22.27.13:741][130]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.07.31-22.27.13:741][130]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.07.31-22.27.13:741][130]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.07.31-22.27.13:741][130]LogInterchangeEngine: [Pending] Importing -  (7)
+[2023.07.31-22.27.13:741][130]LogInterchangeEngine: [Pending] Importing -  (8)
+[2023.07.31-22.27.13:741][130]LogInterchangeEngine: [Pending] Importing -  (9)
+[2023.07.31-22.27.13:741][130]LogInterchangeEngine: [Pending] Importing -  (10)
+[2023.07.31-22.27.13:741][130]LogInterchangeEngine: [Pending] Importing -  (11)
+[2023.07.31-22.27.13:742][130]LogInterchangeEngine: [Pending] Importing -  (12)
+[2023.07.31-22.27.13:742][130]LogInterchangeEngine: [Pending] Importing -  (13)
+[2023.07.31-22.27.13:742][130]LogInterchangeEngine: [Pending] Importing -  (14)
+[2023.07.31-22.27.13:742][130]LogInterchangeEngine: [Pending] Importing -  (15)
+[2023.07.31-22.27.13:742][130]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.13:742][130]LogInterchangeEngine: [Pending] Importing -  (17)
+[2023.07.31-22.27.13:742][130]LogInterchangeEngine: [Pending] Importing -  (18)
+[2023.07.31-22.27.13:742][130]LogInterchangeEngine: [Pending] Importing -  (19)
+[2023.07.31-22.27.13:742][130]LogInterchangeEngine: [Pending] Importing -  (20)
+[2023.07.31-22.27.13:743][130]LogInterchangeEngine: [Pending] Importing -  (21)
+[2023.07.31-22.27.13:743][130]LogInterchangeEngine: [Pending] Importing -  (22)
+[2023.07.31-22.27.13:743][130]LogInterchangeEngine: [Pending] Importing -  (23)
+[2023.07.31-22.27.13:743][130]LogInterchangeEngine: [Pending] Importing -  (24)
+[2023.07.31-22.27.13:743][130]LogInterchangeEngine: [Pending] Importing -  (25)
+[2023.07.31-22.27.13:743][130]LogInterchangeEngine: [Pending] Importing -  (26)
+[2023.07.31-22.27.13:743][130]LogInterchangeEngine: [Pending] Importing -  (27)
+[2023.07.31-22.27.13:743][130]LogInterchangeEngine: [Pending] Importing -  (28)
+[2023.07.31-22.27.13:743][130]LogInterchangeEngine: [Pending] Importing -  (29)
+[2023.07.31-22.27.13:743][130]LogInterchangeEngine: [Pending] Importing -  (30)
+[2023.07.31-22.27.13:744][130]LogInterchangeEngine: [Pending] Importing -  (31)
+[2023.07.31-22.27.13:744][130]LogInterchangeEngine: [Pending] Importing -  (32)
+[2023.07.31-22.27.13:777][131]LogInterchangeEngine: [Pending] Importing -  (32)
+[2023.07.31-22.27.13:821][132]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_Metallic.Marissa_Face_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.13:883][133]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.13:883][133]LogInterchangeEngine: [Pending] Importing -  (31)
+[2023.07.31-22.27.13:883][133]LogInterchangeEngine: [Pending] Importing -  (31)
+[2023.07.31-22.27.13:892][133]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_Metallic.Marissa_Leggings_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.13:936][134]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.13:936][134]LogInterchangeEngine: [Pending] Importing -  (30)
+[2023.07.31-22.27.13:936][134]LogInterchangeEngine: [Pending] Importing -  (30)
+[2023.07.31-22.27.13:959][134]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_Metallic.Marissa_Scarf_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:005][135]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.14:005][135]LogInterchangeEngine: [Pending] Importing -  (29)
+[2023.07.31-22.27.14:005][135]LogInterchangeEngine: [Pending] Importing -  (29)
+[2023.07.31-22.27.14:029][135]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_Metallic.Marissa_Hair_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:078][135]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.14:079][135]LogInterchangeEngine: [Pending] Importing -  (28)
+[2023.07.31-22.27.14:079][135]LogInterchangeEngine: [Pending] Importing -  (28)
+[2023.07.31-22.27.14:160][136]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.14:161][136]LogInterchangeEngine: [Pending] Importing -  (27)
+[2023.07.31-22.27.14:161][136]LogInterchangeEngine: [Pending] Importing -  (27)
+[2023.07.31-22.27.14:167][136]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.14:167][136]LogInterchangeEngine: [Pending] Importing -  (26)
+[2023.07.31-22.27.14:167][136]LogInterchangeEngine: [Pending] Importing -  (26)
+[2023.07.31-22.27.14:169][136]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_BaseColor.Marissa_Face_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:254][137]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_BaseColor.Marissa_Shirt_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:261][138]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.14:261][138]LogInterchangeEngine: [Pending] Importing -  (25)
+[2023.07.31-22.27.14:261][138]LogInterchangeEngine: [Pending] Importing -  (25)
+[2023.07.31-22.27.14:261][138]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.14:261][138]LogInterchangeEngine: [Pending] Importing -  (24)
+[2023.07.31-22.27.14:261][138]LogInterchangeEngine: [Pending] Importing -  (24)
+[2023.07.31-22.27.14:261][138]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.14:261][138]LogInterchangeEngine: [Pending] Importing -  (23)
+[2023.07.31-22.27.14:261][138]LogInterchangeEngine: [Pending] Importing -  (23)
+[2023.07.31-22.27.14:261][138]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.14:261][138]LogInterchangeEngine: [Pending] Importing -  (22)
+[2023.07.31-22.27.14:261][138]LogInterchangeEngine: [Pending] Importing -  (22)
+[2023.07.31-22.27.14:261][138]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.14:261][138]LogInterchangeEngine: [Pending] Importing -  (21)
+[2023.07.31-22.27.14:261][138]LogInterchangeEngine: [Pending] Importing -  (21)
+[2023.07.31-22.27.14:283][138]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_Roughness.Marissa_Leggings_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:284][138]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_Roughness.Marissa_Hair_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:285][138]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_Roughness.Marissa_Scarf_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:336][138]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_Metallic.Marissa_Shirt_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:359][139]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.14:359][139]LogInterchangeEngine: [Pending] Importing -  (20)
+[2023.07.31-22.27.14:359][139]LogInterchangeEngine: [Pending] Importing -  (20)
+[2023.07.31-22.27.14:359][139]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.14:359][139]LogInterchangeEngine: [Pending] Importing -  (19)
+[2023.07.31-22.27.14:359][139]LogInterchangeEngine: [Pending] Importing -  (19)
+[2023.07.31-22.27.14:359][139]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.14:359][139]LogInterchangeEngine: [Pending] Importing -  (18)
+[2023.07.31-22.27.14:359][139]LogInterchangeEngine: [Pending] Importing -  (18)
+[2023.07.31-22.27.14:366][139]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_Normal.Marissa_Leggings_Normal (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:382][140]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.14:382][140]LogInterchangeEngine: [Pending] Importing -  (17)
+[2023.07.31-22.27.14:382][140]LogInterchangeEngine: [Pending] Importing -  (16)
+[2023.07.31-22.27.14:421][141]LogInterchangeEngine: [Pending] Importing -  (15)
+[2023.07.31-22.27.14:448][142]LogInterchangeEngine: [Pending] Importing -  (14)
+[2023.07.31-22.27.14:448][142]LogInterchangeEngine: [Pending] Importing -  (13)
+[2023.07.31-22.27.14:511][144]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_Roughness.Marissa_Face_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:517][145]LogInterchangeEngine: [Pending] Importing -  (12)
+[2023.07.31-22.27.14:557][147]LogInterchangeEngine: [Pending] Importing -  (11)
+[2023.07.31-22.27.14:557][147]LogInterchangeEngine: [Pending] Importing -  (10)
+[2023.07.31-22.27.14:575][148]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_BaseColor.Marissa_Leggings_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:578][148]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_BaseColor.Marissa_Hair_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:583][148]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_Normal.Marissa_Face_Normal (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:594][148]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_BaseColor.Marissa_Scarf_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:599][148]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_Metallic.Marissa_Shorts_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:600][148]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_Roughness.Marissa_Shirt_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:601][149]LogInterchangeEngine: [Pending] Importing -  (9)
+[2023.07.31-22.27.14:622][149]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_Metallic.Marissa_Skin_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:654][151]LogInterchangeEngine: [Pending] Importing -  (8)
+[2023.07.31-22.27.14:683][152]LogInterchangeEngine: [Pending] Importing -  (7)
+[2023.07.31-22.27.14:693][152]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_Normal.Marissa_Hair_Normal (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:697][152]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_Metallic.Mimi_Shoes_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:740][154]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.07.31-22.27.14:799][156]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_Roughness.Marissa_Skin_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:802][157]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.07.31-22.27.14:802][157]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.07.31-22.27.14:803][157]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_Normal.Marissa_Scarf_Normal (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:908][160]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.31-22.27.14:908][160]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.31-22.27.14:908][160]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.07.31-22.27.14:908][160]LogInterchangeEngine: [Success] Import Done
+[2023.07.31-22.27.14:967][160]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_Roughness.Mimi_Shoes_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.14:969][160]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_Roughness.Marissa_Shorts_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.15:144][160]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_Normal.Marissa_Shirt_Normal (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.15:146][160]LogInterchangeEngine: [Success] Import Done
+[2023.07.31-22.27.15:149][160]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_BaseColor.Marissa_Shorts_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.15:149][160]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_BaseColor.Marissa_Skin_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.15:293][161]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_BaseColor.Mimi_Shoes_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.15:296][161]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_Normal.Marissa_Skin_Normal (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.15:300][161]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_Normal.Marissa_Shorts_Normal (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.15:318][161]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_Normal.Mimi_Shoes_Normal (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.16:687][196]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.07.31-22.27.17:115][201]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.07.31-22.27.17:131][201]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.07.31-22.27.17:148][201]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.07.31-22.27.17:290][201]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_Normal.Marissa_Leggings_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1278.562488 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.17:291][201]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_Normal.Marissa_Scarf_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1278.562488 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.17:296][201]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_Normal.Marissa_Hair_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1278.562488 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.17:296][201]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_Normal.Marissa_Face_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1278.562488 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.17:641][203]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.07.31-22.27.17:670][203]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.07.31-22.27.17:681][203]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.07.31-22.27.17:699][203]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.07.31-22.27.17:737][203]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_Normal.Mimi_Shoes_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1278.562488 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.17:739][203]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_Normal.Marissa_Skin_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1278.562488 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.17:760][203]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_Normal.Marissa_Shorts_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1278.562488 MB), EncodeSpeed: Fast
+[2023.07.31-22.27.17:805][203]LogTexture: Display: Building textures: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_Normal.Marissa_Shirt_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1278.562488 MB), EncodeSpeed: Fast
+[2023.07.31-22.28.19:595][110]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MasterAssets/Characters/Marissa/Marissa_Face.Marissa_Face
+[2023.07.31-22.28.19:614][110]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-22.28.19:911][110]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.31-22.28.20:412][110]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.31-22.28.20:415][110]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.31-22.28.20:916][110]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.31-22.28.20:928][110]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.28.20:928][110]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.28.20:928][110]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: ================================================
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Total job queries 985, among them cache hits 78 (7.92%)
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Tracking 642 distinct input hashes that result in 206 distinct outputs (32.09%)
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: RAM used: 5.51 MB (0.01 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.17%
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Shaders Compiled: 248
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Jobs assigned 248, completed 248 (100.00%)
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Average time worker was idle: 0.53 s
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Time job spent in pending queue: average 0.45 s, longest 2.90 s
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Job execution time: average 1.00 s, max 2.86 s
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Job life time (pending + execution): average 1.45 s, max 4.14
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.50 s
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Jobs were issued in 248 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Average processing rate: 12.72 jobs/sec
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Total thread time: 196.80 s
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Total thread preprocess time: 10.77 s
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Percentage time preprocessing: 5.47%
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Effective parallelization: 10.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 18
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    8 times, average 1.65 sec, max 1.75 sec, min 1.59 sec)
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    8 times, average 1.14 sec, max 1.17 sec, min 1.10 sec)
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   16 times, average 0.88 sec, max 1.05 sec, min 0.82 sec)
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   16 times, average 0.85 sec, max 1.07 sec, min 0.74 sec)
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   16 times, average 0.85 sec, max 1.05 sec, min 0.73 sec)
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.16% of total time (compiled   16 times, average 0.88 sec, max 1.05 sec, min 0.82 sec)
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.92% of total time (compiled   16 times, average 0.85 sec, max 1.07 sec, min 0.74 sec)
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.91% of total time (compiled   16 times, average 0.85 sec, max 1.05 sec, min 0.73 sec)
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 6.83% of total time (compiled   16 times, average 0.84 sec, max 1.07 sec, min 0.72 sec)
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 6.71% of total time (compiled    8 times, average 1.65 sec, max 1.75 sec, min 1.59 sec)
+[2023.07.31-22.28.20:937][110]LogShaderCompilers: Display: ================================================
+[2023.07.31-22.28.20:947][110]LogSlate: Took 0.005659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.07.31-22.28.20:953][110]LogViewport: Scene viewport resized to 327x485, mode Windowed.
+[2023.07.31-22.28.21:038][111]LogD3D12RHI: Creating RTPSO with 39 shaders (0 cached, 2 new) took 10.57 ms. Compile time 8.68 ms, link time 1.83 ms.
+[2023.07.31-22.28.21:069][112]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.07.31-22.28.21:069][112]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.07.31-22.28.21:069][112]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.28.21:069][112]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.28.21:069][112]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.28.37:475][ 86]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.28.37:475][ 86]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.28.37:475][ 86]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.28.37:475][ 86]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.28.38:244][116]MaterialEditorStats: Texture samplers: 1/16
+[2023.07.31-22.28.38:245][116]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.28.38:245][116]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.28.38:245][116]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.28.38:402][122]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.28.38:402][122]MaterialEditorStats: Texture samplers: 1/16
+[2023.07.31-22.28.38:402][122]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.28.38:402][122]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.28.38:402][122]MaterialEditorStats: Shader Count: 3
+[2023.07.31-22.28.38:505][126]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.07.31-22.28.38:505][126]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.28.38:505][126]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.28.38:505][126]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.28.38:505][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.28.38:505][126]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.28.39:318][158]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.28.39:318][158]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.28.39:318][158]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.28.39:318][158]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.28.39:396][160]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.07.31-22.28.39:396][160]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.28.39:396][160]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.28.39:396][160]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.28.39:396][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.28.39:396][160]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.28.47:342][623]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.28.47:342][623]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.28.47:342][623]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.28.47:342][623]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.28.47:871][642]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.28.47:871][642]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.28.47:871][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.28.47:871][642]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.28.48:168][654]MaterialEditorStats: Base pass shader: 221 instructions
+[2023.07.31-22.28.48:168][654]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.28.48:168][654]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.31-22.28.48:168][654]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.28.48:168][654]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.28.48:168][654]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.28.49:071][696]LogD3D12RHI: Creating RTPSO with 40 shaders (0 cached, 1 new) took 11.42 ms. Compile time 8.53 ms, link time 2.85 ms.
+[2023.07.31-22.28.50:021][787]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.28.50:021][787]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.28.50:021][787]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.28.50:021][787]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.28.50:631][809]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.28.50:631][809]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.28.50:631][809]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.28.50:631][809]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.28.50:917][820]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.07.31-22.28.50:917][820]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.28.50:917][820]MaterialEditorStats: Texture samplers: 5/16
+[2023.07.31-22.28.50:917][820]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.28.50:917][820]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.28.50:917][820]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.28.52:500][912]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.28.52:500][912]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.28.52:500][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.28.52:500][912]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.28.53:054][931]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.28.53:054][931]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.28.53:054][931]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.28.53:054][931]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.28.53:357][943]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.28.53:357][943]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.28.53:357][943]MaterialEditorStats: Texture samplers: 6/16
+[2023.07.31-22.28.53:357][943]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.28.53:357][943]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.28.53:357][943]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.28.57:831][135]LogMaterialEditor: Saving and Compiling material Marissa_Face
+[2023.07.31-22.29.01:150][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.07.31-22.29.01:831][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.07.31-22.29.01:843][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-22.29.03:981][135]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.29.04:213][135]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005046s (0.233782s overbudget)
+[2023.07.31-22.29.04:283][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterAssets/Characters/Marissa/Marissa_Face" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Face.uasset" SILENT=true
+[2023.07.31-22.29.04:285][135]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Face
+[2023.07.31-22.29.04:285][135]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Face060437CC428493F3342AC0855C0BD868.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Face.uasset'
+[2023.07.31-22.29.04:294][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.45 sec (total: 24.2 sec)
+[2023.07.31-22.29.04:300][135]AssetCheck: New page: Asset Save: Marissa_Face
+[2023.07.31-22.29.04:300][135]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Face.Marissa_Face
+[2023.07.31-22.29.04:302][135]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.29.04:303][135]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.29.04:303][135]MaterialEditorStats: MaxSampler: 281 instructions
+[2023.07.31-22.29.04:303][135]MaterialEditorStats: Base pass vertex shader: 533 instructions
+[2023.07.31-22.29.04:303][135]MaterialEditorStats: Texture samplers: 7/16
+[2023.07.31-22.29.04:303][135]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.29.04:303][135]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.29.04:303][135]MaterialEditorStats: Shader Count: 36
+[2023.07.31-22.29.06:811][236]LogSlate: Window 'Marissa_Face' being destroyed
+[2023.07.31-22.29.06:818][236]LogSlate: Window 'Marissa_Face' being destroyed
+[2023.07.31-22.29.06:834][236]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.07.31-22.29.06:834][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.29.14:086][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.07.31-22.29.24:785][799]LogSlate: Window 'Save Content' being destroyed
+[2023.07.31-22.29.24:797][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-22.29.25:114][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_BaseColor
+[2023.07.31-22.29.25:115][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Face_BaseColor393E945A4F343D33045F7E935061504E.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_BaseColor.uasset'
+[2023.07.31-22.29.25:190][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_Metallic
+[2023.07.31-22.29.25:190][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Face_MetallicA1B38B8D4CE77FA88536C48B1059768D.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_Metallic.uasset'
+[2023.07.31-22.29.25:479][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_Normal
+[2023.07.31-22.29.25:479][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Face_NormalC4B2ED3C493AC2391D302096722FE91E.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_Normal.uasset'
+[2023.07.31-22.29.25:566][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_Roughness
+[2023.07.31-22.29.25:566][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Face_RoughnessCA7B2692413CCAA97149279A9DF8A5A6.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_Roughness.uasset'
+[2023.07.31-22.29.25:850][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_BaseColor
+[2023.07.31-22.29.25:850][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Hair_BaseColor4AADA2C3432F644A6D9A01AD244BB0CD.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_BaseColor.uasset'
+[2023.07.31-22.29.25:925][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_Metallic
+[2023.07.31-22.29.25:925][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Hair_Metallic4DF82A854D34D8F4CB013096454E1DF7.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_Metallic.uasset'
+[2023.07.31-22.29.26:206][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_Normal
+[2023.07.31-22.29.26:206][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Hair_NormalE8423E9F46A86199DAC0D2B98CB3AD95.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_Normal.uasset'
+[2023.07.31-22.29.26:287][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_Roughness
+[2023.07.31-22.29.26:287][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Hair_Roughness93E35C8E40AE2EF8C51D129455CE5699.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_Roughness.uasset'
+[2023.07.31-22.29.26:582][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_BaseColor
+[2023.07.31-22.29.26:583][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Leggings_BaseColorFDE7A85942C3136EF09F54A16AD5B766.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_BaseColor.uasset'
+[2023.07.31-22.29.26:658][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_Metallic
+[2023.07.31-22.29.26:658][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Leggings_Metallic938D17B143644AC8186BBCAD9C464D80.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_Metallic.uasset'
+[2023.07.31-22.29.26:941][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_Normal
+[2023.07.31-22.29.26:941][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Leggings_NormalB8D18D7641D608907DEB3DAAFB8AF080.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_Normal.uasset'
+[2023.07.31-22.29.27:023][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_Roughness
+[2023.07.31-22.29.27:023][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Leggings_RoughnessC3E97BB5434D680A0C133A82BFE71D06.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_Roughness.uasset'
+[2023.07.31-22.29.27:312][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_BaseColor
+[2023.07.31-22.29.27:312][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Scarf_BaseColorB5CEB4A9453ED41556A31495263CB447.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_BaseColor.uasset'
+[2023.07.31-22.29.27:391][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_Metallic
+[2023.07.31-22.29.27:392][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Scarf_Metallic687059A745542EB1536AFB90F911E9C9.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_Metallic.uasset'
+[2023.07.31-22.29.27:673][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_Normal
+[2023.07.31-22.29.27:673][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Scarf_Normal6F21A4104D755F6C9C0F7FA08FA1C677.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_Normal.uasset'
+[2023.07.31-22.29.27:758][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_Roughness
+[2023.07.31-22.29.27:758][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Scarf_Roughness7376F6DB456E6DBBF3F1BE929AA84C2E.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_Roughness.uasset'
+[2023.07.31-22.29.28:042][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_BaseColor
+[2023.07.31-22.29.28:042][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Shirt_BaseColorF6F51DF34786134286AA628E9433FFCE.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_BaseColor.uasset'
+[2023.07.31-22.29.28:118][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_Metallic
+[2023.07.31-22.29.28:118][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Shirt_Metallic6F4645504DD660A7DF247D8C0139DAF7.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_Metallic.uasset'
+[2023.07.31-22.29.28:411][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_Normal
+[2023.07.31-22.29.28:411][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Shirt_Normal4247839C4CF6D16CC161199BA8C1049C.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_Normal.uasset'
+[2023.07.31-22.29.28:488][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_Roughness
+[2023.07.31-22.29.28:488][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Shirt_RoughnessCD2C10284F31F34EC978F18F9BAB05ED.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_Roughness.uasset'
+[2023.07.31-22.29.28:772][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_BaseColor
+[2023.07.31-22.29.28:772][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Shorts_BaseColorCAF4ED674A8E7F8274FFB58C5C2D47C1.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_BaseColor.uasset'
+[2023.07.31-22.29.28:849][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_Metallic
+[2023.07.31-22.29.28:849][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Shorts_Metallic480CA39C43BD833C504C9AA4D3CA8919.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_Metallic.uasset'
+[2023.07.31-22.29.29:135][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_Normal
+[2023.07.31-22.29.29:135][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Shorts_Normal6C817803407F40524B4D899A3DED0631.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_Normal.uasset'
+[2023.07.31-22.29.29:242][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_Roughness
+[2023.07.31-22.29.29:242][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Shorts_RoughnessED5C520D4DA03B2AA8664087A318AE43.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_Roughness.uasset'
+[2023.07.31-22.29.29:535][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_BaseColor
+[2023.07.31-22.29.29:536][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Skin_BaseColorF8DDA689444C508D17CF56986EC0942A.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_BaseColor.uasset'
+[2023.07.31-22.29.29:612][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_Metallic
+[2023.07.31-22.29.29:612][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Skin_MetallicBFB9181648E43A9B297304B97FFFEDE9.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_Metallic.uasset'
+[2023.07.31-22.29.29:900][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_Normal
+[2023.07.31-22.29.29:900][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Skin_Normal2C86A7E845B6C15F58BD99AD58C2F213.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_Normal.uasset'
+[2023.07.31-22.29.29:984][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_Roughness
+[2023.07.31-22.29.29:984][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Skin_Roughness5C92C6494F73751C2F0528BBD18A4C82.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_Roughness.uasset'
+[2023.07.31-22.29.30:267][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_BaseColor
+[2023.07.31-22.29.30:267][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Mimi_Shoes_BaseColorF7E268A64A58E153EB71E0824791FFC4.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_BaseColor.uasset'
+[2023.07.31-22.29.30:356][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_Metallic
+[2023.07.31-22.29.30:356][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Mimi_Shoes_Metallic8EFA48984A5154DD940277ACBFC76031.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_Metallic.uasset'
+[2023.07.31-22.29.30:640][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_Normal
+[2023.07.31-22.29.30:640][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Mimi_Shoes_Normal0E4C3181432E310EB32EA6A361E61424.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_Normal.uasset'
+[2023.07.31-22.29.30:722][799]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_Roughness
+[2023.07.31-22.29.30:722][799]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Mimi_Shoes_Roughness0E2415F840ACACC92757C9A54842FCCA.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_Roughness.uasset'
+[2023.07.31-22.29.30:731][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.93 sec (total: 30.2 sec)
+[2023.07.31-22.29.30:784][799]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Episode2.Episode2
+[2023.07.31-22.29.30:785][799]Cmd: MAP LOAD FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/Episode2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.07.31-22.29.30:785][799]LightingResults: New page: Lighting Build
+[2023.07.31-22.29.30:785][799]LoadErrors: New page: Loading map: Episode2.umap
+[2023.07.31-22.29.30:824][799]LogWorld: UWorld::CleanupWorld for Episode1, bSessionEnded=true, bCleanupResources=true
+[2023.07.31-22.29.30:824][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.29.30:825][799]MapCheck: New page: Map Check
+[2023.07.31-22.29.30:825][799]LightingResults: New page: Lighting Build
+[2023.07.31-22.29.30:841][799]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.31-22.29.30:848][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.07.31-22.29.30:860][799]LogWorld: UWorld::CleanupWorld for Episode2, bSessionEnded=true, bCleanupResources=true
+[2023.07.31-22.29.30:860][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.29.30:871][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.07.31-22.29.30:881][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.07.31-22.29.30:882][799]LogAudio: Display: Audio Device (ID: 1) registered with world 'Episode2'.
+[2023.07.31-22.29.30:882][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-22.29.30:882][799]LogAIModule: Creating AISystem for world Episode2
+[2023.07.31-22.29.30:893][799]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.31-22.29.30:905][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.07.31-22.29.30:923][799]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.31-22.29.30:923][799]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2023.07.31-22.29.30:923][799]LogFileHelpers: Loading map 'Episode2' took 0.139
+[2023.07.31-22.29.30:954][799]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.31-22.29.30:954][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_Roughness.Mimi_Shoes_Roughness
+[2023.07.31-22.29.30:954][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_Normal.Mimi_Shoes_Normal
+[2023.07.31-22.29.30:954][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_Metallic.Mimi_Shoes_Metallic
+[2023.07.31-22.29.30:954][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Mimi_Shoes_BaseColor.Mimi_Shoes_BaseColor
+[2023.07.31-22.29.30:954][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_Metallic.Marissa_Skin_Metallic
+[2023.07.31-22.29.30:954][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_Roughness.Marissa_Skin_Roughness
+[2023.07.31-22.29.30:954][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_Normal.Marissa_Skin_Normal
+[2023.07.31-22.29.30:954][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Skin_BaseColor.Marissa_Skin_BaseColor
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_Roughness.Marissa_Shorts_Roughness
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_Normal.Marissa_Shorts_Normal
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_Metallic.Marissa_Shorts_Metallic
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shorts_BaseColor.Marissa_Shorts_BaseColor
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_Roughness.Marissa_Shirt_Roughness
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_Normal.Marissa_Shirt_Normal
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_Metallic.Marissa_Shirt_Metallic
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Shirt_BaseColor.Marissa_Shirt_BaseColor
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_Roughness.Marissa_Scarf_Roughness
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_Normal.Marissa_Scarf_Normal
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_Metallic.Marissa_Scarf_Metallic
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Scarf_BaseColor.Marissa_Scarf_BaseColor
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_Roughness.Marissa_Leggings_Roughness
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_Normal.Marissa_Leggings_Normal
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_Metallic.Marissa_Leggings_Metallic
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Leggings_BaseColor.Marissa_Leggings_BaseColor
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_Roughness.Marissa_Hair_Roughness
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_Metallic.Marissa_Hair_Metallic
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_BaseColor.Marissa_Hair_BaseColor
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_Roughness.Marissa_Face_Roughness
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_Normal.Marissa_Face_Normal
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_BaseColor.Marissa_Face_BaseColor
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Face_Metallic.Marissa_Face_Metallic
+[2023.07.31-22.29.30:955][799]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MasterAssets/Characters/Marissa/MarissaTextures/Marissa_Hair_Normal.Marissa_Hair_Normal
+[2023.07.31-22.29.44:786][233]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged.Marissa_Mesh_rigged
+[2023.07.31-22.29.44:787][233]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged.Marissa_Mesh_rigged
+[2023.07.31-22.29.44:787][233]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged.Marissa_Mesh_rigged as actor: SkeletalMeshActor /Game/Episode2.Episode2:PersistentLevel.SkeletalMeshActor_0
+[2023.07.31-22.29.44:789][233]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged.Marissa_Mesh_rigged as actor: SkeletalMeshActor /Game/Episode2.Episode2:PersistentLevel.SkeletalMeshActor_0
+[2023.07.31-22.29.45:309][293]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged.Marissa_Mesh_rigged
+[2023.07.31-22.29.45:309][293]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged.Marissa_Mesh_rigged
+[2023.07.31-22.29.45:311][293]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged.Marissa_Mesh_rigged as actor: SkeletalMeshActor /Game/Episode2.Episode2:PersistentLevel.SkeletalMeshActor_1
+[2023.07.31-22.29.45:312][293]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/MasterAssets/Characters/Marissa/Marissa_Mesh_rigged.Marissa_Mesh_rigged as actor: SkeletalMeshActor /Game/Episode2.Episode2:PersistentLevel.SkeletalMeshActor_1
+[2023.07.31-22.29.51:599][999]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.07.31-22.29.56:663][559]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.07.31-22.29.56:663][559]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.07.31-22.29.56:664][559]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Episode2.Episode2:PersistentLevel.SkyLight_0
+[2023.07.31-22.29.56:664][559]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Episode2.Episode2:PersistentLevel.SkyLight_0
+[2023.07.31-22.30.01:442][ 56]LogSlate: Took 0.005400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.31-22.30.14:963][518]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MasterAssets/Characters/Marissa/Marissa_Face.Marissa_Face
+[2023.07.31-22.30.14:967][518]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-22.30.15:136][518]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.31-22.30.15:637][518]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.31-22.30.15:677][518]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.31-22.30.16:177][518]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.31-22.30.16:189][518]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.30.16:189][518]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.30.16:189][518]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.30.16:189][518]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.30.16:201][518]LogViewport: Scene viewport resized to 327x485, mode Windowed.
+[2023.07.31-22.30.16:860][553]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.30.16:860][553]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.30.16:860][553]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.30.16:860][553]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.30.17:167][567]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.30.17:167][567]MaterialEditorStats: Texture samplers: 6/16
+[2023.07.31-22.30.17:167][567]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.30.17:167][567]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.30.17:167][567]MaterialEditorStats: Shader Count: 3
+[2023.07.31-22.30.17:274][573]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.30.17:274][573]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.30.17:274][573]MaterialEditorStats: Texture samplers: 6/16
+[2023.07.31-22.30.17:274][573]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.30.17:274][573]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.30.17:274][573]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.30.19:670][709]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.30.19:670][709]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.30.19:670][709]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.30.19:670][709]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.30.19:711][711]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.30.19:711][711]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.30.19:711][711]MaterialEditorStats: Texture samplers: 6/16
+[2023.07.31-22.30.19:711][711]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.30.19:711][711]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.30.19:711][711]MaterialEditorStats: Shader Count: 2
+[2023.07.31-22.30.23:691][977]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.30.23:691][977]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.30.23:691][977]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.30.24:472][ 23]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.07.31-22.30.24:472][ 23]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.07.31-22.30.24:472][ 23]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.30.24:472][ 23]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.30.24:472][ 23]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.30.25:267][ 78]LogMaterialEditor: Saving and Compiling material Marissa_Face
+[2023.07.31-22.30.25:807][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.07.31-22.30.26:460][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.07.31-22.30.26:470][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-22.30.28:605][ 78]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.30.28:804][ 78]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004015s (0.200877s overbudget)
+[2023.07.31-22.30.28:837][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterAssets/Characters/Marissa/Marissa_Face" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Face.uasset" SILENT=true
+[2023.07.31-22.30.28:838][ 78]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Face
+[2023.07.31-22.30.28:839][ 78]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_FaceB7B535054332AC0C2AF7269CAABCBE99.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Face.uasset'
+[2023.07.31-22.30.28:845][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.37 sec (total: 32.5 sec)
+[2023.07.31-22.30.28:849][ 78]AssetCheck: New page: Asset Save: Marissa_Face
+[2023.07.31-22.30.28:850][ 78]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Face.Marissa_Face
+[2023.07.31-22.30.28:853][ 78]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.07.31-22.30.28:853][ 78]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.07.31-22.30.28:853][ 78]MaterialEditorStats: MaxSampler: 258 instructions
+[2023.07.31-22.30.28:853][ 78]MaterialEditorStats: Base pass vertex shader: 531 instructions
+[2023.07.31-22.30.28:853][ 78]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.30.28:853][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.30.28:853][ 78]MaterialEditorStats: Shader Count: 36
+[2023.07.31-22.30.35:490][481]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.30.35:490][481]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.30.35:490][481]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.30.35:572][483]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.07.31-22.30.35:572][483]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.07.31-22.30.35:572][483]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.30.35:572][483]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.30.35:572][483]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.30.39:335][730]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.30.39:335][730]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.30.39:335][730]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.30.39:335][730]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.30.39:446][733]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.07.31-22.30.39:446][733]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.30.39:446][733]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.30.39:446][733]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.30.39:446][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.30.39:446][733]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.30.42:682][946]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.30.42:682][946]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.30.42:682][946]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.30.42:682][946]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.30.42:763][949]MaterialEditorStats: Base pass shader: 221 instructions
+[2023.07.31-22.30.42:763][949]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.30.42:763][949]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.31-22.30.42:763][949]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.30.42:763][949]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.30.42:763][949]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.30.45:661][114]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.30.45:661][114]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.30.45:661][114]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.30.45:661][114]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.30.45:758][117]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.07.31-22.30.45:758][117]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.30.45:758][117]MaterialEditorStats: Texture samplers: 5/16
+[2023.07.31-22.30.45:758][117]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.30.45:758][117]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.30.45:758][117]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.30.47:516][225]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.30.47:516][225]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.30.47:516][225]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.30.47:516][225]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.30.47:603][228]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.30.47:603][228]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.30.47:603][228]MaterialEditorStats: Texture samplers: 6/16
+[2023.07.31-22.30.47:603][228]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.30.47:603][228]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.30.47:603][228]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.30.49:647][351]LogMaterialEditor: Saving and Compiling material Marissa_Face
+[2023.07.31-22.30.50:129][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.07.31-22.30.50:347][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.07.31-22.30.50:356][351]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-22.30.50:529][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterAssets/Characters/Marissa/Marissa_Face" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Face.uasset" SILENT=true
+[2023.07.31-22.30.50:531][351]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Face
+[2023.07.31-22.30.50:531][351]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Face4D011C6D4005A853231A0EB0DB7CEAA5.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Face.uasset'
+[2023.07.31-22.30.50:537][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 32.7 sec)
+[2023.07.31-22.30.50:546][351]AssetCheck: New page: Asset Save: Marissa_Face
+[2023.07.31-22.30.50:546][351]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Face.Marissa_Face
+[2023.07.31-22.30.50:547][351]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.30.50:547][351]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.30.50:547][351]MaterialEditorStats: MaxSampler: 281 instructions
+[2023.07.31-22.30.50:547][351]MaterialEditorStats: Base pass vertex shader: 533 instructions
+[2023.07.31-22.30.50:547][351]MaterialEditorStats: Texture samplers: 7/16
+[2023.07.31-22.30.50:547][351]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.30.50:547][351]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.30.50:547][351]MaterialEditorStats: Shader Count: 36
+[2023.07.31-22.30.52:295][462]LogSlate: Window 'Marissa_Face' being destroyed
+[2023.07.31-22.30.52:301][462]LogSlate: Window 'Marissa_Face' being destroyed
+[2023.07.31-22.30.52:317][462]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.07.31-22.30.52:318][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.30.59:766][198]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MasterAssets/Characters/Marissa/Marissa_Hair.Marissa_Hair
+[2023.07.31-22.30.59:769][198]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-22.30.59:913][198]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.31-22.31.00:414][198]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.31-22.31.00:478][198]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.31-22.31.00:979][198]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.31-22.31.00:988][198]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.31.00:989][198]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.31.00:989][198]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.31.01:000][198]LogViewport: Scene viewport resized to 327x485, mode Windowed.
+[2023.07.31-22.31.01:059][200]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.07.31-22.31.01:059][200]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.07.31-22.31.01:059][200]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.31.01:059][200]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.31.01:059][200]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.31.14:852][960]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.31.14:852][960]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.31.14:852][960]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.14:852][960]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.31.15:435][986]MaterialEditorStats: Texture samplers: 1/16
+[2023.07.31-22.31.15:435][986]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.31.15:435][986]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.15:435][986]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.31.15:746][  3]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.07.31-22.31.15:746][  3]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.31.15:747][  3]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.31.15:747][  3]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.31.15:747][  3]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.15:747][  3]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.31.16:361][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.31.16:361][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.31.16:361][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.16:361][ 38]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.31.16:432][ 40]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.07.31-22.31.16:432][ 40]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.31.16:432][ 40]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.31.16:432][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.31.16:432][ 40]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.16:432][ 40]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.31.19:710][271]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.31.19:710][271]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.31.19:710][271]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.19:710][271]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.31.20:187][292]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.31.20:187][292]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.31.20:187][292]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.20:187][292]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.31.20:499][309]MaterialEditorStats: Base pass shader: 221 instructions
+[2023.07.31-22.31.20:499][309]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.31.20:499][309]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.31-22.31.20:499][309]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.31.20:499][309]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.20:499][309]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: ================================================
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Total job queries 1384, among them cache hits 347 (25.07%)
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Tracking 771 distinct input hashes that result in 242 distinct outputs (31.39%)
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: RAM used: 6.47 MB (0.01 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.20%
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Shaders Compiled: 355
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Jobs assigned 355, completed 355 (100.00%)
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Average time worker was idle: 13.05 s
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Time job spent in pending queue: average 0.38 s, longest 2.90 s
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 2.86 s
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Job life time (pending + execution): average 1.34 s, max 4.14
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 39.56 s
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Jobs were issued in 355 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Average processing rate: 8.97 jobs/sec
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Total thread time: 273.22 s
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Total thread preprocess time: 14.38 s
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Percentage time preprocessing: 5.26%
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Effective parallelization: 6.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 18
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled   10 times, average 1.63 sec, max 1.75 sec, min 1.51 sec)
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    9 times, average 1.45 sec, max 1.49 sec, min 1.38 sec)
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   10 times, average 1.12 sec, max 1.17 sec, min 1.03 sec)
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   20 times, average 0.86 sec, max 1.05 sec, min 0.71 sec)
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   20 times, average 0.84 sec, max 1.07 sec, min 0.72 sec)
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.30% of total time (compiled   20 times, average 0.86 sec, max 1.05 sec, min 0.71 sec)
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.13% of total time (compiled   20 times, average 0.84 sec, max 1.07 sec, min 0.72 sec)
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.10% of total time (compiled   20 times, average 0.83 sec, max 1.05 sec, min 0.68 sec)
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 6.04% of total time (compiled   20 times, average 0.82 sec, max 1.07 sec, min 0.70 sec)
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 5.95% of total time (compiled   10 times, average 1.63 sec, max 1.75 sec, min 1.51 sec)
+[2023.07.31-22.31.21:299][356]LogShaderCompilers: Display: ================================================
+[2023.07.31-22.31.23:147][489]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.31.23:147][489]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.31.23:147][489]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.23:147][489]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.31.23:624][513]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.31.23:625][513]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.31.23:625][513]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.23:625][513]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.31.23:932][530]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.07.31-22.31.23:932][530]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.31.23:932][530]MaterialEditorStats: Texture samplers: 5/16
+[2023.07.31-22.31.23:932][530]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.31.23:932][530]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.23:932][530]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.31.24:778][572]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.31.24:778][572]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.31.24:778][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.24:778][572]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.31.25:284][598]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.31.25:284][598]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.31.25:284][598]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.25:284][598]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.31.25:576][615]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.31.25:576][615]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.31.25:577][615]MaterialEditorStats: Texture samplers: 6/16
+[2023.07.31-22.31.25:577][615]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.31.25:577][615]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.25:577][615]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.31.27:449][721]LogMaterialEditor: Saving and Compiling material Marissa_Hair
+[2023.07.31-22.31.27:979][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.07.31-22.31.28:637][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.07.31-22.31.28:646][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-22.31.30:763][721]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.31.30:981][721]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003022s (0.221144s overbudget)
+[2023.07.31-22.31.31:036][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterAssets/Characters/Marissa/Marissa_Hair" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Hair.uasset" SILENT=true
+[2023.07.31-22.31.31:038][721]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Hair
+[2023.07.31-22.31.31:038][721]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Hair8E75634F429333C1C37E18B1BF25275F.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Hair.uasset'
+[2023.07.31-22.31.31:045][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.39 sec (total: 35.1 sec)
+[2023.07.31-22.31.31:054][721]AssetCheck: New page: Asset Save: Marissa_Hair
+[2023.07.31-22.31.31:054][721]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Hair.Marissa_Hair
+[2023.07.31-22.31.31:055][721]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.31.31:055][721]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.31.31:055][721]MaterialEditorStats: MaxSampler: 281 instructions
+[2023.07.31-22.31.31:055][721]MaterialEditorStats: Base pass vertex shader: 533 instructions
+[2023.07.31-22.31.31:055][721]MaterialEditorStats: Texture samplers: 7/16
+[2023.07.31-22.31.31:055][721]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.31.31:055][721]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.31:055][721]MaterialEditorStats: Shader Count: 36
+[2023.07.31-22.31.38:220][154]LogSlate: Window 'Marissa_Hair' being destroyed
+[2023.07.31-22.31.38:227][154]LogSlate: Window 'Marissa_Hair' being destroyed
+[2023.07.31-22.31.38:243][154]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.07.31-22.31.38:243][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.31.39:738][294]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MasterAssets/Characters/Marissa/Marissa_Leggings.Marissa_Leggings
+[2023.07.31-22.31.39:741][294]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-22.31.40:003][294]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.31-22.31.40:505][294]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.31-22.31.40:536][294]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.31-22.31.41:038][294]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.31-22.31.41:047][294]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.31.41:048][294]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.31.41:048][294]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.31.41:058][294]LogViewport: Scene viewport resized to 327x485, mode Windowed.
+[2023.07.31-22.31.41:122][296]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.07.31-22.31.41:122][296]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.07.31-22.31.41:122][296]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.31.41:122][296]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.31.41:122][296]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.31.50:912][901]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.31.50:912][901]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.31.50:912][901]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.50:912][901]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.31.51:641][936]MaterialEditorStats: Texture samplers: 1/16
+[2023.07.31-22.31.51:641][936]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.31.51:641][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.51:641][936]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.31.51:804][944]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.07.31-22.31.51:804][944]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.31.51:804][944]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.31.51:804][944]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.31.51:804][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.51:804][944]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.31.52:439][981]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.31.52:439][981]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.31.52:439][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.52:439][981]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.31.52:510][983]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.07.31-22.31.52:510][983]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.31.52:510][983]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.31.52:510][983]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.31.52:510][983]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.52:510][983]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.31.55:886][238]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.31.55:886][238]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.31.55:886][238]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.55:886][238]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.31.56:374][262]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.31.56:374][262]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.31.56:374][262]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.56:374][262]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.31.56:667][278]MaterialEditorStats: Base pass shader: 221 instructions
+[2023.07.31-22.31.56:667][278]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.31.56:667][278]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.31-22.31.56:667][278]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.31.56:667][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.31.56:667][278]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.32.00:176][529]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.32.00:176][529]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.32.00:176][529]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.00:176][529]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.32.00:701][551]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.32.00:701][551]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.32.00:701][551]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.00:701][551]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.32.00:988][566]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.07.31-22.32.00:988][566]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.32.00:988][566]MaterialEditorStats: Texture samplers: 5/16
+[2023.07.31-22.32.00:988][566]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.32.00:988][566]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.00:988][566]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.32.02:499][654]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.32.02:499][654]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.32.02:499][654]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.02:499][654]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.32.02:989][678]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.32.02:989][678]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.32.02:989][678]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.02:989][678]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.32.03:300][695]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.32.03:300][695]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.32.03:300][695]MaterialEditorStats: Texture samplers: 6/16
+[2023.07.31-22.32.03:300][695]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.32.03:300][695]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.03:300][695]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.32.04:331][753]LogMaterialEditor: Saving and Compiling material Marissa_Leggings
+[2023.07.31-22.32.04:864][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.07.31-22.32.05:541][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.07.31-22.32.05:553][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-22.32.07:680][753]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.32.07:850][753]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004166s (0.170895s overbudget)
+[2023.07.31-22.32.07:898][753]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Leggings
+[2023.07.31-22.32.07:898][753]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Leggings602F40724B52AD8E5DDC1880D31F3978.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Leggings.uasset'
+[2023.07.31-22.32.07:907][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.35 sec (total: 37.5 sec)
+[2023.07.31-22.32.07:912][753]AssetCheck: New page: Asset Save: Marissa_Leggings
+[2023.07.31-22.32.07:912][753]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Leggings.Marissa_Leggings
+[2023.07.31-22.32.07:913][753]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.32.07:913][753]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.32.07:913][753]MaterialEditorStats: MaxSampler: 281 instructions
+[2023.07.31-22.32.07:913][753]MaterialEditorStats: Base pass vertex shader: 533 instructions
+[2023.07.31-22.32.07:913][753]MaterialEditorStats: Texture samplers: 7/16
+[2023.07.31-22.32.07:913][753]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.32.07:913][753]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.07:913][753]MaterialEditorStats: Shader Count: 36
+[2023.07.31-22.32.11:436][973]LogSlate: Window 'Marissa_Leggings' being destroyed
+[2023.07.31-22.32.11:445][973]LogSlate: Window 'Marissa_Leggings' being destroyed
+[2023.07.31-22.32.11:464][973]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.07.31-22.32.11:464][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.32.16:494][445]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MasterAssets/Characters/Marissa/Marissa_Scarf.Marissa_Scarf
+[2023.07.31-22.32.16:498][445]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-22.32.16:649][445]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.31-22.32.17:150][445]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.31-22.32.17:164][445]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.32.17:164][445]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.32.17:164][445]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.32.17:175][445]LogViewport: Scene viewport resized to 327x485, mode Windowed.
+[2023.07.31-22.32.17:231][447]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.07.31-22.32.17:231][447]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.07.31-22.32.17:231][447]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.32.17:231][447]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.32.17:231][447]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.32.27:588][ 75]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.32.27:588][ 75]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.32.27:588][ 75]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.27:588][ 75]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.32.28:662][132]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.07.31-22.32.28:662][132]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.32.28:662][132]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.32.28:662][132]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.32.28:662][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.28:662][132]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.32.30:303][240]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.32.30:303][240]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.32.30:303][240]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.30:303][240]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.32.30:801][264]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.32.30:801][264]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.32.30:801][264]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.30:801][264]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.32.31:405][302]MaterialEditorStats: Base pass shader: 221 instructions
+[2023.07.31-22.32.31:406][302]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.32.31:406][302]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.31-22.32.31:406][302]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.32.31:406][302]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.31:406][302]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.32.32:720][390]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.32.32:720][390]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.32.32:720][390]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.32:720][390]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.32.33:203][414]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.32.33:203][414]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.32.33:203][414]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.33:203][414]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.32.34:347][476]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.32.34:347][476]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.32.34:348][476]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.34:348][476]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.32.34:872][500]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.32.34:872][500]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.32.34:872][500]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.34:872][500]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.32.35:155][516]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.32.35:155][516]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.32.35:155][516]MaterialEditorStats: Texture samplers: 6/16
+[2023.07.31-22.32.35:155][516]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.32.35:155][516]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.35:155][516]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.32.36:947][618]LogMaterialEditor: Saving and Compiling material Marissa_Scarf
+[2023.07.31-22.32.37:479][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.07.31-22.32.38:161][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.07.31-22.32.38:173][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-22.32.40:305][618]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.32.40:507][618]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005240s (0.207470s overbudget)
+[2023.07.31-22.32.40:580][618]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Scarf
+[2023.07.31-22.32.40:580][618]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_ScarfE810A49741768BF9E2F05ABF94718B37.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Scarf.uasset'
+[2023.07.31-22.32.40:590][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.41 sec (total: 39.9 sec)
+[2023.07.31-22.32.40:595][618]AssetCheck: New page: Asset Save: Marissa_Scarf
+[2023.07.31-22.32.40:595][618]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Scarf.Marissa_Scarf
+[2023.07.31-22.32.40:596][618]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.32.40:597][618]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.32.40:597][618]MaterialEditorStats: MaxSampler: 281 instructions
+[2023.07.31-22.32.40:597][618]MaterialEditorStats: Base pass vertex shader: 533 instructions
+[2023.07.31-22.32.40:597][618]MaterialEditorStats: Texture samplers: 7/16
+[2023.07.31-22.32.40:597][618]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.32.40:597][618]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.40:597][618]MaterialEditorStats: Shader Count: 36
+[2023.07.31-22.32.42:990][755]LogSlate: Window 'Marissa_Scarf' being destroyed
+[2023.07.31-22.32.42:998][755]LogSlate: Window 'Marissa_Scarf' being destroyed
+[2023.07.31-22.32.43:014][755]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.07.31-22.32.43:014][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.32.44:331][869]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MasterAssets/Characters/Marissa/Marissa_Shirt.Marissa_Shirt
+[2023.07.31-22.32.44:334][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-22.32.44:482][869]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.31-22.32.44:983][869]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.31-22.32.45:012][869]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.31-22.32.45:513][869]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.31-22.32.45:564][869]LogViewport: Scene viewport resized to 327x485, mode Windowed.
+[2023.07.31-22.32.45:701][874]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.07.31-22.32.45:701][874]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.07.31-22.32.45:701][874]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.32.45:701][874]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.32.45:701][874]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.32.53:360][319]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.32.53:360][319]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.32.53:360][319]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.53:360][319]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.32.53:883][342]MaterialEditorStats: Texture samplers: 1/16
+[2023.07.31-22.32.53:883][342]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.32.53:883][342]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.53:883][342]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.32.54:188][357]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.07.31-22.32.54:188][357]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.32.54:188][357]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.32.54:188][357]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.32.54:188][357]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.54:188][357]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.32.57:339][575]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.32.57:339][575]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.32.57:339][575]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.57:339][575]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.32.57:872][601]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.32.57:872][601]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.32.57:872][601]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.57:872][601]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.32.58:175][617]MaterialEditorStats: Base pass shader: 221 instructions
+[2023.07.31-22.32.58:175][617]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.32.58:175][617]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.31-22.32.58:175][617]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.32.58:175][617]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.58:175][617]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.32.59:731][715]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.32.59:731][715]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.32.59:731][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.32.59:731][715]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.33.00:281][737]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.33.00:281][737]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.33.00:281][737]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.00:281][737]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.33.00:596][754]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.07.31-22.33.00:597][754]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.33.00:597][754]MaterialEditorStats: Texture samplers: 5/16
+[2023.07.31-22.33.00:597][754]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.33.00:597][754]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.00:597][754]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.33.01:862][825]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.33.01:862][825]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.33.01:862][825]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.01:862][825]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.33.02:374][850]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.33.02:375][850]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.33.02:375][850]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.02:375][850]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.33.02:679][866]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.33.02:679][866]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.33.02:679][866]MaterialEditorStats: Texture samplers: 6/16
+[2023.07.31-22.33.02:679][866]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.33.02:679][866]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.02:679][866]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.33.03:198][896]LogMaterialEditor: Saving and Compiling material Marissa_Shirt
+[2023.07.31-22.33.03:741][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.07.31-22.33.04:531][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.07.31-22.33.04:543][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-22.33.06:655][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.33.06:950][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003075s (0.296046s overbudget)
+[2023.07.31-22.33.07:023][896]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Shirt
+[2023.07.31-22.33.07:023][896]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_Shirt2104CFE148C7F8F76DE53893E9D5C758.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Shirt.uasset'
+[2023.07.31-22.33.07:033][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.49 sec (total: 42.4 sec)
+[2023.07.31-22.33.07:037][896]AssetCheck: New page: Asset Save: Marissa_Shirt
+[2023.07.31-22.33.07:038][896]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Shirt.Marissa_Shirt
+[2023.07.31-22.33.07:041][896]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.33.07:041][896]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.33.07:041][896]MaterialEditorStats: MaxSampler: 281 instructions
+[2023.07.31-22.33.07:041][896]MaterialEditorStats: Base pass vertex shader: 533 instructions
+[2023.07.31-22.33.07:041][896]MaterialEditorStats: Texture samplers: 7/16
+[2023.07.31-22.33.07:041][896]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.33.07:041][896]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.07:041][896]MaterialEditorStats: Shader Count: 36
+[2023.07.31-22.33.08:884][  5]LogSlate: Window 'Marissa_Shirt' being destroyed
+[2023.07.31-22.33.08:892][  5]LogSlate: Window 'Marissa_Shirt' being destroyed
+[2023.07.31-22.33.08:909][  5]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.07.31-22.33.08:909][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.33.10:232][133]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MasterAssets/Characters/Marissa/Marissa_Shorts.Marissa_Shorts
+[2023.07.31-22.33.10:235][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-22.33.10:383][133]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.31-22.33.10:884][133]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.31-22.33.10:912][133]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.31-22.33.11:413][133]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.31-22.33.11:423][133]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.33.11:423][133]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.33.11:423][133]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.33.11:435][133]LogViewport: Scene viewport resized to 327x485, mode Windowed.
+[2023.07.31-22.33.11:500][135]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.07.31-22.33.11:500][135]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.07.31-22.33.11:500][135]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.33.11:500][135]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.33.11:500][135]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.33.27:126][162]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.33.27:126][162]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.33.27:126][162]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.27:126][162]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.33.27:798][195]MaterialEditorStats: Texture samplers: 1/16
+[2023.07.31-22.33.27:798][195]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.33.27:798][195]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.27:798][195]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.33.28:576][245]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.07.31-22.33.28:576][245]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.33.28:576][245]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.33.28:576][245]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.33.28:576][245]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.28:576][245]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.33.30:595][368]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.33.30:595][368]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.33.30:595][368]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.30:595][368]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.33.31:109][392]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.33.31:109][392]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.33.31:109][392]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.31:110][392]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.33.31:426][409]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.33.31:426][409]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.33.31:426][409]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.33.31:426][409]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.31:426][409]MaterialEditorStats: Shader Count: 3
+[2023.07.31-22.33.31:903][441]MaterialEditorStats: Base pass shader: 221 instructions
+[2023.07.31-22.33.31:903][441]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.33.31:903][441]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.31-22.33.31:903][441]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.33.31:903][441]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.31:903][441]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.33.35:553][692]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.33.35:553][692]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.33.35:554][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.35:554][692]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.33.36:095][720]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.33.36:095][720]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.33.36:095][720]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.36:095][720]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.33.36:401][737]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.07.31-22.33.36:401][737]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.33.36:401][737]MaterialEditorStats: Texture samplers: 5/16
+[2023.07.31-22.33.36:401][737]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.33.36:401][737]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.36:401][737]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.33.37:446][804]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.33.37:446][804]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.33.37:446][804]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.37:446][804]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.33.37:987][829]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.33.37:987][829]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.33.37:987][829]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.37:987][829]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.33.38:281][844]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.33.38:282][844]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.33.38:282][844]MaterialEditorStats: Texture samplers: 6/16
+[2023.07.31-22.33.38:282][844]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.33.38:282][844]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.38:282][844]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.33.39:030][886]LogMaterialEditor: Saving and Compiling material Marissa_Shorts
+[2023.07.31-22.33.39:562][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.07.31-22.33.40:350][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.07.31-22.33.40:363][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-22.33.42:490][886]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.33.42:737][886]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002989s (0.247745s overbudget)
+[2023.07.31-22.33.42:788][886]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Shorts
+[2023.07.31-22.33.42:789][886]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_ShortsF325178C45659483C3B4B68A08F4DCAB.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Shorts.uasset'
+[2023.07.31-22.33.42:799][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.43 sec (total: 44.8 sec)
+[2023.07.31-22.33.42:804][886]AssetCheck: New page: Asset Save: Marissa_Shorts
+[2023.07.31-22.33.42:804][886]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Shorts.Marissa_Shorts
+[2023.07.31-22.33.42:808][886]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.33.42:808][886]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.33.42:808][886]MaterialEditorStats: MaxSampler: 281 instructions
+[2023.07.31-22.33.42:808][886]MaterialEditorStats: Base pass vertex shader: 533 instructions
+[2023.07.31-22.33.42:808][886]MaterialEditorStats: Texture samplers: 7/16
+[2023.07.31-22.33.42:808][886]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.33.42:808][886]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.33.42:808][886]MaterialEditorStats: Shader Count: 36
+[2023.07.31-22.33.46:441][105]LogSlate: Window 'Marissa_Shorts' being destroyed
+[2023.07.31-22.33.46:450][105]LogSlate: Window 'Marissa_Shorts' being destroyed
+[2023.07.31-22.33.46:467][105]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.07.31-22.33.46:467][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.33.50:665][534]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MasterAssets/Characters/Marissa/Marissa_Skin.Marissa_Skin
+[2023.07.31-22.33.50:668][534]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-22.33.50:835][534]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.33.50:835][534]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.33.50:835][534]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.33.50:847][534]LogViewport: Scene viewport resized to 327x485, mode Windowed.
+[2023.07.31-22.33.50:920][536]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.07.31-22.33.50:921][536]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.07.31-22.33.50:921][536]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.33.50:921][536]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.33.50:921][536]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.34.01:273][197]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.34.01:274][197]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.34.01:274][197]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.01:274][197]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.34.01:823][225]MaterialEditorStats: Texture samplers: 1/16
+[2023.07.31-22.34.01:823][225]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.34.01:823][225]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.01:823][225]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.34.02:624][278]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.07.31-22.34.02:624][278]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.34.02:624][278]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.34.02:624][278]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.34.02:624][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.02:624][278]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.34.04:541][404]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.34.04:541][404]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.34.04:541][404]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.04:541][404]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.34.05:020][428]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.34.05:020][428]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.34.05:020][428]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.05:020][428]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.34.05:827][481]MaterialEditorStats: Base pass shader: 221 instructions
+[2023.07.31-22.34.05:827][481]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.34.05:827][481]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.31-22.34.05:827][481]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.34.05:827][481]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.05:827][481]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.34.08:646][664]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.34.08:646][664]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.34.08:647][664]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.08:647][664]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.34.09:214][693]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.34.09:215][693]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.34.09:215][693]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.09:215][693]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.34.09:528][710]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.07.31-22.34.09:528][710]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.34.09:528][710]MaterialEditorStats: Texture samplers: 5/16
+[2023.07.31-22.34.09:528][710]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.34.09:528][710]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.09:528][710]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.34.12:309][907]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.34.12:309][907]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.34.12:309][907]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.12:309][907]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.34.12:875][931]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.34.12:875][931]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.34.12:875][931]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.12:875][931]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.34.13:078][940]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.34.13:078][940]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.34.13:078][940]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.34.13:078][940]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.13:078][940]MaterialEditorStats: Shader Count: 3
+[2023.07.31-22.34.13:187][946]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.34.13:187][946]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.34.13:187][946]MaterialEditorStats: Texture samplers: 6/16
+[2023.07.31-22.34.13:187][946]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.34.13:187][946]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.13:187][946]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.34.14:196][999]LogMaterialEditor: Saving and Compiling material Marissa_Skin
+[2023.07.31-22.34.14:729][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.07.31-22.34.15:403][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.07.31-22.34.15:415][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-22.34.17:549][999]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.34.17:762][999]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002029s (0.215860s overbudget)
+[2023.07.31-22.34.17:827][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterAssets/Characters/Marissa/Marissa_Skin" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Skin.uasset" SILENT=true
+[2023.07.31-22.34.17:830][999]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Marissa_Skin
+[2023.07.31-22.34.17:830][999]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Marissa_SkinA27AD4EC4EC8F98DCF5657A2F3674DAE.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Marissa_Skin.uasset'
+[2023.07.31-22.34.17:840][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.42 sec (total: 47.2 sec)
+[2023.07.31-22.34.17:845][999]AssetCheck: New page: Asset Save: Marissa_Skin
+[2023.07.31-22.34.17:845][999]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Marissa_Skin.Marissa_Skin
+[2023.07.31-22.34.17:846][999]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.34.17:846][999]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.34.17:846][999]MaterialEditorStats: MaxSampler: 281 instructions
+[2023.07.31-22.34.17:846][999]MaterialEditorStats: Base pass vertex shader: 533 instructions
+[2023.07.31-22.34.17:846][999]MaterialEditorStats: Texture samplers: 7/16
+[2023.07.31-22.34.17:846][999]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.34.17:846][999]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.17:846][999]MaterialEditorStats: Shader Count: 36
+[2023.07.31-22.34.21:663][231]LogSlate: Window 'Marissa_Skin' being destroyed
+[2023.07.31-22.34.21:672][231]LogSlate: Window 'Marissa_Skin' being destroyed
+[2023.07.31-22.34.21:689][231]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.07.31-22.34.21:689][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.34.22:776][328]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MasterAssets/Characters/Marissa/Mimi_Shoes.Mimi_Shoes
+[2023.07.31-22.34.22:779][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-22.34.22:931][328]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.31-22.34.23:432][328]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.31-22.34.23:457][328]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.07.31-22.34.23:958][328]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.31-22.34.23:980][328]LogViewport: Scene viewport resized to 327x485, mode Windowed.
+[2023.07.31-22.34.24:003][329]LogShaderCompilers: Display: ================================================
+[2023.07.31-22.34.24:003][329]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.31-22.34.24:003][329]LogShaderCompilers: Display: Total job queries 2037, among them cache hits 703 (34.51%)
+[2023.07.31-22.34.24:003][329]LogShaderCompilers: Display: Tracking 1067 distinct input hashes that result in 242 distinct outputs (22.68%)
+[2023.07.31-22.34.24:003][329]LogShaderCompilers: Display: RAM used: 9.00 MB (0.01 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.27%
+[2023.07.31-22.34.24:003][329]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.31-22.34.24:003][329]LogShaderCompilers: Display: Shaders Compiled: 651
+[2023.07.31-22.34.24:003][329]LogShaderCompilers: Display: Jobs assigned 651, completed 651 (100.00%)
+[2023.07.31-22.34.24:003][329]LogShaderCompilers: Display: Average time worker was idle: 12.64 s
+[2023.07.31-22.34.24:003][329]LogShaderCompilers: Display: Time job spent in pending queue: average 0.32 s, longest 2.90 s
+[2023.07.31-22.34.24:003][329]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 2.86 s
+[2023.07.31-22.34.24:003][329]LogShaderCompilers: Display: Job life time (pending + execution): average 1.23 s, max 4.14
+[2023.07.31-22.34.24:003][329]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 90.96 s
+[2023.07.31-22.34.24:003][329]LogShaderCompilers: Display: Jobs were issued in 651 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display: Average processing rate: 7.16 jobs/sec
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display: Total thread time: 484.47 s
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display: Total thread preprocess time: 24.45 s
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display: Percentage time preprocessing: 5.05%
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display: Effective parallelization: 5.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 18
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled   16 times, average 1.59 sec, max 1.75 sec, min 1.51 sec)
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   31 times, average 1.43 sec, max 1.52 sec, min 1.36 sec)
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   16 times, average 1.09 sec, max 1.17 sec, min 1.02 sec)
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   32 times, average 0.83 sec, max 1.05 sec, min 0.71 sec)
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   32 times, average 0.82 sec, max 1.07 sec, min 0.71 sec)
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.14% of total time (compiled   31 times, average 1.43 sec, max 1.52 sec, min 1.36 sec)
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.65% of total time (compiled   47 times, average 0.69 sec, max 0.96 sec, min 0.63 sec)
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.37% of total time (compiled   47 times, average 0.66 sec, max 0.87 sec, min 0.57 sec)
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.57% of total time (compiled   47 times, average 0.57 sec, max 0.79 sec, min 0.52 sec)
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.49% of total time (compiled   32 times, average 0.83 sec, max 1.05 sec, min 0.71 sec)
+[2023.07.31-22.34.24:004][329]LogShaderCompilers: Display: ================================================
+[2023.07.31-22.34.24:040][330]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.07.31-22.34.24:040][330]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.07.31-22.34.24:040][330]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.34.24:040][330]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.34.24:040][330]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.34.29:533][650]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.34.29:533][650]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.34.29:533][650]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.34.29:616][652]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.07.31-22.34.29:616][652]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.07.31-22.34.29:616][652]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.34.29:616][652]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.31-22.34.29:616][652]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.34.33:420][912]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.34.33:420][912]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.34.33:420][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.33:420][912]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.34.33:554][915]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.07.31-22.34.33:554][915]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.34.33:554][915]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.34.33:554][915]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.34.33:554][915]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.33:554][915]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.34.37:007][161]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.34.37:007][161]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.34.37:007][161]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.37:007][161]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.34.37:738][193]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.34.37:739][193]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.34.37:739][193]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.37:739][193]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.34.37:812][197]MaterialEditorStats: Base pass shader: 220 instructions
+[2023.07.31-22.34.37:812][197]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.34.37:812][197]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.31-22.34.37:812][197]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.34.37:812][197]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.37:812][197]MaterialEditorStats: Shader Count: 3
+[2023.07.31-22.34.39:591][312]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.34.39:591][312]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.34.39:591][312]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.39:591][312]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.34.39:681][315]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.07.31-22.34.39:682][315]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.34.39:682][315]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.34.39:682][315]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.31-22.34.39:682][315]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.39:682][315]MaterialEditorStats: Shader Count: 5
+[2023.07.31-22.34.41:594][443]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.34.41:594][443]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.34.41:594][443]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.41:594][443]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.34.42:147][465]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.31-22.34.42:147][465]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.34.42:147][465]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.42:147][465]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.34.42:466][482]MaterialEditorStats: Base pass shader: 221 instructions
+[2023.07.31-22.34.42:466][482]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.34.42:466][482]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.31-22.34.42:466][482]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.31-22.34.42:466][482]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.42:466][482]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.34.44:728][638]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.34.44:728][638]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.34.44:728][638]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.44:728][638]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.34.45:251][663]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.34.45:251][663]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.34.45:251][663]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.45:251][663]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.34.45:550][679]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.07.31-22.34.45:550][679]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.34.45:550][679]MaterialEditorStats: Texture samplers: 5/16
+[2023.07.31-22.34.45:550][679]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.31-22.34.45:550][679]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.45:550][679]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.34.46:793][750]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.31-22.34.46:793][750]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.34.46:793][750]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.46:793][750]MaterialEditorStats: Shader Count: 0
+[2023.07.31-22.34.47:330][774]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.34.47:330][774]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.34.47:330][774]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.47:330][774]MaterialEditorStats: Shader Count: 1
+[2023.07.31-22.34.47:534][783]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.34.47:534][783]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.31-22.34.47:534][783]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.34.47:534][783]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.47:534][783]MaterialEditorStats: Shader Count: 3
+[2023.07.31-22.34.47:637][787]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.34.47:637][787]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.34.47:637][787]MaterialEditorStats: Texture samplers: 6/16
+[2023.07.31-22.34.47:637][787]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.34.47:637][787]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.47:637][787]MaterialEditorStats: Shader Count: 4
+[2023.07.31-22.34.48:361][829]LogMaterialEditor: Saving and Compiling material Mimi_Shoes
+[2023.07.31-22.34.48:895][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.07.31-22.34.49:572][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.07.31-22.34.49:584][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-22.34.51:718][829]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.31-22.34.52:007][829]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004065s (0.292031s overbudget)
+[2023.07.31-22.34.52:078][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterAssets/Characters/Marissa/Mimi_Shoes" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Mimi_Shoes.uasset" SILENT=true
+[2023.07.31-22.34.52:080][829]LogSavePackage: Moving output files for package: /Game/MasterAssets/Characters/Marissa/Mimi_Shoes
+[2023.07.31-22.34.52:080][829]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Mimi_Shoes990BEE3B463D56239EFEBC88E079BAA8.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/MasterAssets/Characters/Marissa/Mimi_Shoes.uasset'
+[2023.07.31-22.34.52:091][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.50 sec (total: 49.7 sec)
+[2023.07.31-22.34.52:098][829]AssetCheck: New page: Asset Save: Mimi_Shoes
+[2023.07.31-22.34.52:098][829]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MasterAssets/Characters/Marissa/Mimi_Shoes.Mimi_Shoes
+[2023.07.31-22.34.52:102][829]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.07.31-22.34.52:102][829]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.31-22.34.52:102][829]MaterialEditorStats: MaxSampler: 281 instructions
+[2023.07.31-22.34.52:102][829]MaterialEditorStats: Base pass vertex shader: 533 instructions
+[2023.07.31-22.34.52:102][829]MaterialEditorStats: Texture samplers: 7/16
+[2023.07.31-22.34.52:102][829]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.07.31-22.34.52:102][829]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.31-22.34.52:102][829]MaterialEditorStats: Shader Count: 36
+[2023.07.31-22.34.58:434][208]LogSlate: Window 'Mimi_Shoes' being destroyed
+[2023.07.31-22.34.58:444][208]LogSlate: Window 'Mimi_Shoes' being destroyed
+[2023.07.31-22.34.58:460][208]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.07.31-22.34.58:460][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.35.02:613][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.07.31-22.35.04:209][662]LogSlate: Window 'Save Content' being destroyed
+[2023.07.31-22.35.04:217][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-22.35.04:267][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Episode2" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/Episode2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.31-22.35.04:277][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.07.31-22.35.04:281][662]LogSavePackage: Moving output files for package: /Game/Episode2
+[2023.07.31-22.35.04:281][662]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Episode26E5E0BDE413E02BDB546AA8311AAEB67.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/Episode2.umap'
+[2023.07.31-22.35.04:297][662]LogFileHelpers: Saving map 'Episode2' took 0.030
+[2023.07.31-22.35.04:304][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 49.8 sec)
+[2023.07.31-22.35.04:309][662]AssetCheck: New page: Asset Save: Episode2
+[2023.07.31-22.35.04:309][662]LogContentValidation: Display: Validating /Script/Engine.World /Game/Episode2.Episode2
+[2023.07.31-22.35.28:407][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-22.35.28:451][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Episode2" FILE="D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/Episode2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.31-22.35.28:462][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.07.31-22.35.28:467][997]LogSavePackage: Moving output files for package: /Game/Episode2
+[2023.07.31-22.35.28:467][997]LogSavePackage: Moving 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/Episode22A9B830441F6ACA25DBA888B4AE86560.tmp' to 'D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Content/Episode2.umap'
+[2023.07.31-22.35.28:481][997]LogFileHelpers: Saving map 'Episode2' took 0.030
+[2023.07.31-22.35.28:489][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 49.9 sec)
+[2023.07.31-22.35.28:495][997]AssetCheck: New page: Asset Save: Episode2
+[2023.07.31-22.35.28:495][997]LogContentValidation: Display: Validating /Script/Engine.World /Game/Episode2.Episode2
