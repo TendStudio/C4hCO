@@ -1,2 +1,3 @@
-2023/07/24-16:51:41.950 2ce4 Creating DB D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/07/24-16:51:42.167 2ce4 Reusing MANIFEST D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/07/31-12:46:31.280 8044 Reusing MANIFEST D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/07/31-12:46:31.296 8044 Recovering log #3
+2023/07/31-12:46:31.321 8044 Reusing old log D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/webcache_4430\Local Storage\leveldb/000003.log 
