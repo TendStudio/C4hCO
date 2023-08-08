@@ -1,1 +1,27 @@
-[0807/160738.655:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0808/141536.116:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0808/141536.116:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0808/141536.116:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0808/141536.116:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0808/141536.116:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0808/141536.117:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0808/141536.117:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0808/141536.117:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0808/141536.152:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0808/141536.152:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0808/141536.152:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0808/141536.152:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0808/141536.155:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0808/141544.999:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0808/141544.999:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0808/141544.999:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0808/141544.999:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0808/141544.999:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0808/141544.999:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0808/141544.999:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0808/141544.999:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0808/141544.999:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0808/141544.999:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0808/141544.999:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0808/141544.999:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0808/141544.999:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0808/141637.082:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

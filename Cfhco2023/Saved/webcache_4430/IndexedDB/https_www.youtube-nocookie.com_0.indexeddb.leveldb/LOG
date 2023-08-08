@@ -1,0 +1,6 @@
+2023/08/08-14:16:15.864 80b4 Creating DB D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/08/08-14:16:16.129 80b4 Reusing MANIFEST D:/Tend Studio Dropbox/2023/C4hCO/Cfhco2023/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/08-14:18:28.474 75dc Level-0 table #5: started
+2023/08/08-14:18:28.552 75dc Level-0 table #5: 1167 bytes OK
+2023/08/08-14:18:28.628 75dc Delete type=0 #3
+2023/08/08-14:18:28.629 75dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
