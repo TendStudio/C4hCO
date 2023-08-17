@@ -1,0 +1,17 @@
+﻿{
+    "skip-walk-c1": {
+        "Version": "1.10.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Export Directory": "C:/RLConverterServices/RLConverter/TempData/Convert/73bb2ee2f835689b/JIC2f04cd539281f82f0",
+        "Object": {
+            "skip-walk-c1": {
+                "Generation": "AccuRig",
+                "Physics": {},
+                "Meshes": {}
+            }
+        }
+    }
+}

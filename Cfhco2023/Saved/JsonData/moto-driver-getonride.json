@@ -1,0 +1,17 @@
+﻿{
+    "moto-driver-getonride": {
+        "Version": "1.10.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Export Directory": "C:/RLConverterServices/RLConverter/TempData/Convert/839d2c3879bd3d23/JIC9b415eb496336d2c4",
+        "Object": {
+            "moto-driver-getonride": {
+                "Generation": "AccuRig",
+                "Physics": {},
+                "Meshes": {}
+            }
+        }
+    }
+}
